@@ -1,0 +1,101 @@
+CustomerID,CompanyName,ContactName,ContactTitle,Address,City,Region,PostalCode,Country,Phone,Fax
+1,Jayo,Andrew Baker,Marketing Manager,90 Blue Bill Park Lane,Darunban,,,Indonesia,0-(643)115-7546,1-(141)259-6567
+2,Roombo,Brian Weaver,Sales Representative,4287 Prentice Parkway,Bordeaux,97,33911 CEDEX 9,France,5-(619)651-0944,2-(316)838-2132
+3,Kimia,Ann Davis,Cost Accountant,88 Shasta Pass,Douliu,,,Taiwan,2-(792)600-3383,3-(495)275-1989
+4,Vinte,Joyce Harper,Product Engineer,8881 Carpenter Trail,Kavalerovo,,,Russia,5-(531)146-7349,1-(447)939-9780
+5,Topicware,Dorothy Peterson,Recruiting Manager,75 Upham Way,Lac-Mégantic,,,Canada,0-(167)835-4160,5-(285)280-5522
+6,Chatterbridge,Doris Bradley,Accountant II,9088 Claremont Avenue,Thị Trấn Tủa Chùa,,,Vietnam,0-(029)389-5909,3-(991)226-5208
+7,Skipstorm,Angela Miller,Teacher,02 Elgar Terrace,Longhu,,,China,6-(965)003-7976,9-(692)417-4573
+8,Quatz,Stephen Martin,Food Chemist,46 Myrtle Drive,Laleng,,,Indonesia,8-(271)364-4137,0-(187)416-6839
+9,Realfire,Jose Harper,Programmer Analyst III,9 Pennsylvania Junction,Ludgeřovice,,,Czech Republic,2-(964)245-8263,0-(027)265-9339
+10,Realbuzz,Kathleen Elliott,Editor,13676 Mosinee Drive,Kaduketug,,,Indonesia,9-(815)376-8667,9-(289)976-3330
+11,Thoughtbridge,Steven Watkins,Computer Systems Analyst I,3249 Clemons Avenue,Kabalo,,,Democratic Republic of the Congo,6-(401)231-0653,5-(159)786-9192
+12,Janyx,Irene Duncan,Actuary,87175 Helena Center,Itaboraí,,,Brazil,6-(816)371-1251,3-(158)338-9535
+13,Quatz,Andrea Morgan,Tax Accountant,36962 Steensland Center,Nazaré,10,2450-104,Portugal,2-(429)781-8953,2-(352)893-1947
+14,Latz,Marie Mendoza,Social Worker,427 Division Alley,Taiyang,,,China,6-(128)913-3556,2-(457)273-1363
+15,Kimia,Randy Harper,Analog Circuit Design manager,101 Forest Way,Mbomba,,,Indonesia,5-(165)954-4630,6-(010)326-3508
+16,Yodoo,Annie Foster,VP Marketing,94107 Utah Drive,Suvorov,,,Russia,4-(045)085-0696,6-(915)401-9895
+17,Skiptube,Philip Parker,Staff Accountant I,8353 Meadow Ridge Junction,Xinmin,,,China,2-(773)443-7192,7-(264)459-6189
+18,Photobean,Ruth Mills,Clinical Specialist,10054 Oxford Court,Harstad,19,9406,Norway,3-(808)373-6529,9-(600)443-4804
+19,Brainbox,Douglas Johnston,Compensation Analyst,4 Utah Circle,Charlesland,,,Ireland,9-(368)845-1525,6-(249)874-9710
+20,Jabbercube,Amanda Hanson,Assistant Professor,4 Helena Terrace,Lüfeng,,,China,5-(988)047-1189,1-(063)477-5373
+21,Kwinu,Cynthia Mason,General Manager,41829 Lawn Center,Hexi,,,China,2-(959)899-9991,8-(624)996-0612
+22,Yamia,Pamela Carpenter,Sales Representative,2323 Dayton Court,Milano,LM,20136,Italy,8-(702)860-3531,9-(475)715-8402
+23,Skajo,Paula Sullivan,Editor,142 Southridge Crossing,Strasbourg,C1,67953 CEDEX 9,France,7-(250)342-1398,6-(515)934-3779
+24,Latz,Jesse Moore,Media Manager III,42 Sheridan Avenue,Tarica,,,Peru,0-(660)626-2882,6-(528)333-1271
+25,Dynabox,Melissa Gardner,Mechanical Systems Engineer,29298 Evergreen Place,Gunungsari,,,Indonesia,5-(069)141-3717,8-(160)703-4575
+26,Twimbo,Kathy Bennett,Business Systems Development Analyst,7 Carberry Court,Arcena,11,2615-221,Portugal,5-(503)895-9974,4-(683)532-6751
+27,Jabbersphere,Andrew Oliver,Analyst Programmer,2053 Morning Circle,Lavaltrie,,,Canada,5-(169)220-9829,9-(311)710-0860
+28,Dabshots,Victor Walker,Legal Assistant,5499 Manley Street,Liberta,,,Antigua and Barbuda,5-(019)658-1067,6-(481)365-1525
+29,Yodoo,Lois Boyd,Statistician II,34866 Artisan Park,Macheke,,,Zimbabwe,4-(160)783-7212,2-(159)616-3569
+30,Linkbuzz,Roy Harper,Software Engineer IV,749 Corry Avenue,Bamban,,,Indonesia,8-(723)532-5534,2-(635)581-1918
+31,Tambee,Joseph Garza,Environmental Tech,5 Mayfield Street,Zbrosławice,,,Poland,0-(614)777-1161,8-(499)309-9213
+32,Oozz,Eric Andrews,Recruiting Manager,955 Iowa Alley,El Paso,TX,88530,United States,3-(370)993-5628,9-(920)040-3567
+33,Divape,Eugene Frazier,Research Nurse,883 Buhler Circle,Milotice,,,Czech Republic,1-(845)881-4127,4-(406)216-2726
+34,Twimbo,Larry Armstrong,VP Product Management,07971 Ludington Place,Skellefteå,AC,931 57,Sweden,2-(595)762-7220,1-(786)757-6090
+35,Oyoba,Rebecca Reynolds,Analog Circuit Design manager,84 Northwestern Trail,Kavajë,,,Albania,0-(320)034-3462,0-(374)141-2584
+36,Blogspan,Laura Chavez,Automation Specialist II,8 Everett Court,Tsumeb,,,Namibia,9-(391)369-9081,9-(631)142-9625
+37,Browsebug,Steven Watson,Tax Accountant,17387 Paget Court,Đắk Song,,,Vietnam,9-(765)071-0396,8-(298)190-4102
+38,Avaveo,Carolyn Austin,Programmer Analyst IV,0644 Hallows Trail,Lokokrangan,,,Indonesia,4-(461)641-2979,7-(190)754-6357
+39,Brainbox,David Jordan,GIS Technical Architect,97 Mosinee Pass,Hexi,,,China,5-(936)112-1000,3-(773)704-3280
+40,Quinu,Thomas Wallace,Legal Assistant,2 Welch Point,Nong Saeng,,,Thailand,7-(342)888-6188,9-(836)990-3671
+41,Riffpedia,Diane Henry,Human Resources Assistant III,985 Merrick Trail,Kaabong,,,Uganda,3-(487)611-6805,5-(197)068-4839
+42,Plajo,Marie Richardson,Tax Accountant,86 Manufacturers Center,Pathum Thani,,,Thailand,8-(801)805-3055,8-(081)315-0332
+43,Oyoyo,Patricia Watkins,Community Outreach Specialist,6970 Sauthoff Pass,Mathakola,,,Botswana,9-(124)303-5224,9-(418)374-4372
+44,Quaxo,Roy Carroll,Web Designer I,67539 Corry Center,Cisaat,,,Indonesia,4-(338)559-5784,0-(747)302-9253
+45,Browsedrive,Donna Sullivan,Database Administrator IV,0415 Sutherland Court,Sundbyberg,AB,172 69,Sweden,4-(503)370-9050,4-(082)902-5206
+46,Pixonyx,Henry Burns,Geological Engineer,14036 Farmco Lane,Dhanot,,,Pakistan,3-(664)587-5610,1-(979)557-1243
+47,Zazio,Teresa Russell,Quality Engineer,08197 Clemons Parkway,Itaperuçu,,,Brazil,3-(930)387-4226,9-(081)639-2018
+48,Jetpulse,Carl Alexander,Graphic Designer,4695 Commercial Street,Trstenik,,,Serbia,9-(955)725-4199,8-(320)465-0799
+49,Avavee,Carl Olson,Statistician IV,569 Magdeline Plaza,Yahil’nytsya,,,Ukraine,6-(627)244-7300,7-(297)735-6941
+50,Tagchat,Matthew Morales,Director of Sales,13098 Manitowish Point,Jiufeng,,,China,7-(889)689-8691,4-(190)996-8270
+51,Tagfeed,Anna Crawford,Budget/Accounting Analyst I,76683 Arizona Alley,Aqsū,,,Kazakhstan,6-(670)269-1019,0-(115)953-3260
+52,Cogilith,Andrea Nguyen,Dental Hygienist,99 Manitowish Plaza,Asembagus,,,Indonesia,6-(147)317-1213,2-(098)781-9457
+53,Babbleset,Virginia Perez,Senior Editor,9779 Eggendart Lane,Turi,,,Indonesia,6-(942)790-6475,8-(167)645-9936
+54,Ntag,Steven Bryant,Paralegal,5 Lawn Crossing,Eirol,01,3800-685,Portugal,9-(538)013-9264,7-(594)302-6708
+55,Trudoo,Paul Griffin,Research Nurse,5134 Veith Court,Hînceşti,,,Moldova,3-(670)716-0753,0-(682)589-0882
+56,Gabspot,Donna Nelson,Project Manager,452 Sloan Way,Qiongshan,,,China,3-(064)034-4731,6-(154)716-6276
+57,Voomm,Janice Green,Senior Financial Analyst,4 Union Road,Eiguliai,,,Lithuania,4-(996)509-4288,1-(329)703-9088
+58,Fivebridge,Martha Scott,Librarian,3863 Clyde Gallagher Crossing,Strasbourg,C1,67029 CEDEX 1,France,7-(681)833-8478,7-(134)081-3348
+59,Voolia,Joan Meyer,VP Quality Control,7684 Dottie Way,Randuagung,,,Indonesia,4-(066)606-7238,3-(992)004-9795
+60,Wordpedia,Philip Richardson,Automation Specialist III,3485 Crowley Crossing,Pinoma,,,Philippines,6-(000)595-5500,1-(745)965-6561
+61,Yakijo,Christine Stevens,Executive Secretary,5 Division Park,Schroeder,,,Brazil,6-(497)719-4402,9-(957)941-5629
+62,Vitz,Rebecca Allen,Senior Editor,263 Spohn Center,Katy,TX,77493,United States,3-(956)759-2866,9-(252)563-9799
+63,Agivu,Bonnie Rice,Human Resources Assistant I,668 Buell Alley,Xiadahe,,,China,3-(656)366-0744,1-(506)843-6398
+64,Blogtag,Jeffrey Harper,Professor,34703 Springs Point,Berendeyevo,,,Russia,4-(728)424-0507,1-(935)549-9139
+65,Bluejam,Patricia Young,Professor,7679 Kingsford Drive,Bailieborough,,,Ireland,3-(808)204-6089,5-(937)065-0327
+66,Eamia,Dennis Garrett,Cost Accountant,7533 Vernon Junction,Centenario,,,Argentina,6-(587)984-4943,9-(954)459-3558
+67,Voonyx,Maria Weaver,Senior Developer,95 Pond Way,Huayuanli,,,China,6-(787)842-2180,9-(134)125-0984
+68,Quatz,Frances Powell,Structural Engineer,25 Moose Court,Hengjie,,,China,4-(721)051-4103,9-(328)508-0113
+69,Mydeo,Robin Hamilton,Account Coordinator,72028 Debs Drive,Paupanda Bawah,,,Indonesia,7-(062)896-2710,9-(001)785-5642
+70,Gigaclub,Virginia James,Teacher,19845 Melody Street,Tagoloan,,,Philippines,9-(832)066-3056,3-(900)444-9185
+71,Muxo,Richard Garza,Marketing Assistant,0440 Blackbird Way,Changhua,,,China,8-(422)141-4687,6-(603)281-0649
+72,Tagpad,Roger Tucker,Dental Hygienist,640 Mccormick Park,Lipov,,,Czech Republic,2-(721)071-7089,2-(480)435-9142
+73,Shufflebeat,Joan Matthews,Senior Editor,1515 Prentice Trail,Piltown,,,Ireland,7-(464)336-3742,4-(248)698-6201
+74,Myworks,Debra White,General Manager,02004 Drewry Road,Wohyń,,,Poland,0-(883)071-1661,9-(854)944-8759
+75,Dablist,William Hernandez,Actuary,46 Pawling Crossing,Jiubao,,,China,5-(544)415-2445,9-(785)048-8727
+76,Riffwire,Amanda Hernandez,Environmental Tech,926 Grasskamp Crossing,Austin,TX,78737,United States,8-(187)213-5597,2-(566)425-9505
+77,Plajo,Christine Moreno,Assistant Manager,400 Birchwood Court,Františkovy Lázně,,,Czech Republic,7-(719)753-6578,5-(874)551-2997
+78,Linklinks,Amy Marshall,Chief Design Engineer,29 Division Park,Imishli,,,Azerbaijan,2-(695)869-0319,0-(119)842-8200
+79,Linktype,Catherine Nelson,Database Administrator IV,81 Esker Lane,Bangluo,,,China,8-(122)365-4053,1-(697)793-1019
+80,Yambee,Henry Watson,Editor,8194 Becker Hill,Balqash,,,Kazakhstan,7-(040)375-7094,4-(874)218-5108
+81,Realcube,Robert Austin,Librarian,6873 Raven Place,Mielec,,,Poland,9-(562)583-5622,6-(200)728-1093
+82,DabZ,Jerry Ramirez,Internal Auditor,45 Daystar Plaza,Azovo,,,Russia,1-(770)709-9045,3-(503)914-2792
+83,Bluejam,Walter Nichols,Staff Accountant III,5 Sheridan Terrace,Saint-Nazaire,B5,44604 CEDEX,France,8-(234)528-5981,8-(706)371-1236
+84,Edgeify,Harold Sims,Senior Quality Engineer,5 2nd Center,Benito Juarez,MIC,61570,Mexico,0-(196)378-5150,9-(467)939-3640
+85,Dablist,Amanda Watson,Sales Associate,0 Dovetail Drive,Carapo,,,Peru,1-(219)647-4163,6-(830)778-6276
+86,Cogilith,Carl Graham,Administrative Assistant I,603 Chinook Street,Kabuynan,,,Philippines,3-(419)935-9687,6-(307)589-1599
+87,Buzzshare,Craig Wells,Staff Scientist,368 Derek Lane,Semiluki,,,Russia,9-(205)543-3855,5-(746)243-5482
+88,Lajo,Samuel Greene,Chief Design Engineer,4 Petterle Parkway,Żabnica,,,Poland,1-(231)828-0806,6-(039)213-0780
+89,Voonte,Annie Rivera,GIS Technical Architect,297 Parkside Drive,Niutang,,,China,4-(383)548-7597,9-(067)502-3062
+90,Zoovu,Sara Gutierrez,Structural Engineer,8 Dakota Park,Denver,CO,80249,United States,1-(748)030-2638,0-(592)515-0819
+91,Topicblab,Marie Sims,Financial Analyst,9535 Nancy Center,Hancheng,,,China,9-(481)454-8840,5-(254)703-3415
+92,Podcat,Deborah Turner,VP Accounting,013 Texas Point,Napier,,,New Zealand,3-(286)802-2235,5-(303)608-5979
+93,Photobean,Chris Gonzales,Engineer IV,15 Grayhawk Drive,San Benito,,,Philippines,6-(879)089-4341,0-(900)323-6213
+94,Edgepulse,Diane Mendoza,Recruiting Manager,7014 Maywood Road,Jedlová,,,Czech Republic,6-(087)814-1323,1-(275)810-4070
+95,Dabtype,Ernest Ward,Editor,0 Dexter Terrace,Blagodarnyy,,,Russia,4-(790)164-1984,8-(531)448-3650
+96,Yodoo,Rose Mills,Human Resources Manager,6 Weeping Birch Pass,Mae Lao,,,Thailand,2-(661)542-6046,5-(316)112-2493
+97,Gabcube,Ronald Boyd,Speech Pathologist,9316 Trailsway Center,Uppsala,C,751 87,Sweden,2-(174)852-0453,0-(462)149-5219
+98,Gigazoom,Donna Boyd,Software Test Engineer IV,4 John Wall Trail,Sukorejo,,,Indonesia,0-(213)913-0732,7-(355)965-5897
+99,Buzzdog,Billy Mason,Sales Representative,41 Hooker Junction,North Little Rock,AR,72199,United States,0-(290)112-7171,0-(914)038-6055
+100,Podcat,Lawrence Austin,Statistician II,744 Lien Terrace,Tallinn,,,Estonia,3-(601)859-6184,2-(493)325-7925

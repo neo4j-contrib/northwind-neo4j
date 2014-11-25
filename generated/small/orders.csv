@@ -1,0 +1,1001 @@
+OrderID,CustomerID,EmployeeID,OrderDate,RequiredDate,ShippedDate,ShipVia,Freight,ShipName,ShipAddress,ShipCity,ShipRegion,ShipPostalCode,ShipCountry
+1,33,9,2014-01-06,2014-01-20,2014-01-16,2,39.57,Topicware,1 Fair Oaks Parkway,Niamey,,,Niger
+2,59,8,2014-05-19,2014-06-02,2014-05-29,1,3.9,Latz,39723 Moland Center,Doña Remedios Trinidad,,,Philippines
+3,12,4,2014-02-06,2014-02-20,2014-02-16,1,88.5,Dynava,89210 Jackson Terrace,Hostos,,,Dominican Republic
+4,64,4,2014-04-10,2014-04-24,2014-04-20,1,14.83,Trunyx,1 Buena Vista Center,Tabwakea Village,,,Kiribati
+5,3,5,2014-10-31,2014-11-14,2014-11-10,3,90.6,Zoombox,716 Dawn Park,Luebo,,,Democratic Republic of the Congo
+6,5,1,2014-05-15,2014-05-29,2014-05-25,3,19.55,Livepath,51 School Place,Būrabay,,,Kazakhstan
+7,39,4,2014-08-11,2014-08-25,2014-08-21,1,6.13,Browsedrive,72 Magdeline Avenue,Dolores,,,Nicaragua
+8,74,1,2014-11-03,2014-11-17,2014-11-13,2,32.57,Riffpedia,90964 Caliangt Pass,Penengahan,,,Indonesia
+9,12,2,2014-01-06,2014-01-20,2014-01-16,3,30.55,Oyoba,4655 Quincy Trail,Renhe,,,China
+10,72,4,2014-11-10,2014-11-24,2014-11-20,3,88.36,Lazz,91 Anthes Pass,Shangjiangxu,,,China
+11,46,4,2014-05-21,2014-06-04,2014-05-31,2,70.04,Oba,95376 Merchant Place,Liliana,,,Indonesia
+12,77,1,2014-01-07,2014-01-21,2014-01-17,1,2.8,Digitube,37 Paget Junction,Nartkala,,,Russia
+13,52,4,2014-09-11,2014-09-25,2014-09-21,3,72,Skaboo,9 Ohio Road,Bato,,,Philippines
+14,92,2,2014-07-20,2014-08-03,2014-07-30,2,25.53,Avaveo,880 Portage Trail,Boyeros,,,Cuba
+15,26,4,2014-08-21,2014-09-04,2014-08-31,3,24.41,Lazzy,01915 Hazelcrest Terrace,Österbybruk,Uppsala,748 31,Sweden
+16,14,3,2014-08-29,2014-09-12,2014-09-08,1,69.31,Yodo,6510 Pankratz Point,Liuhou,,,China
+17,64,7,2014-08-30,2014-09-13,2014-09-09,3,27.45,Mydo,9741 Doe Crossing Alley,Wang Thonglang,,,Thailand
+18,88,7,2013-11-30,2013-12-14,2013-12-10,1,13.94,Browsetype,036 Macpherson Court,Jingu,,,China
+19,95,9,2014-07-22,2014-08-05,2014-08-01,2,41.17,Zazio,99 Forster Plaza,Mubi,,,Nigeria
+20,1,6,2014-04-22,2014-05-06,2014-05-02,1,92.49,Skinte,94 Waubesa Point,Curumaní,,,Colombia
+21,64,1,2014-11-20,2014-12-04,2014-11-30,2,74.01,Lajo,19 Chive Place,Tanushimarumachi-toyoki,,,Japan
+22,57,9,2013-12-20,2014-01-03,2013-12-30,1,62.07,Brainbox,12 Eagan Place,Ebaye,,,Marshall Islands
+23,80,5,2014-07-26,2014-08-09,2014-08-05,2,6.97,Wikizz,51932 Westport Drive,Lyon,Rhône-Alpes,69464 CEDEX 06,France
+24,80,2,2014-02-20,2014-03-06,2014-03-02,3,71.14,Dabshots,607 Milwaukee Center,Venlo,Provincie Limburg,5914,Netherlands
+25,60,6,2014-03-23,2014-04-06,2014-04-02,1,26.65,Yata,1 Oak Place,Suwon-si,,,South Korea
+26,73,2,2014-01-04,2014-01-18,2014-01-14,3,49.28,Mybuzz,78 Bluejay Pass,Qaryat al Qābil,,,Yemen
+27,8,8,2014-10-01,2014-10-15,2014-10-11,1,41.53,Bubblebox,61 Canary Place,Dagang,,,China
+28,88,4,2014-01-13,2014-01-27,2014-01-23,1,23.62,Vinte,4 Hovde Crossing,Fairview,,,Ireland
+29,4,5,2014-04-05,2014-04-19,2014-04-15,2,67.67,Tagcat,8472 Duke Park,Sidomulyo,,,Indonesia
+30,79,6,2014-06-02,2014-06-16,2014-06-12,1,87.19,Skidoo,28797 Meadow Valley Terrace,Ku‘aydinah,,,Yemen
+31,74,1,2013-12-12,2013-12-26,2013-12-22,1,63.75,Linkbridge,4615 Swallow Way,Moissy-Cramayel,Île-de-France,77554 CEDEX,France
+32,93,5,2014-09-06,2014-09-20,2014-09-16,3,15.37,Devpoint,4 Pepper Wood Way,Quintãs,Viseu,3505-556,Portugal
+33,38,5,2014-01-03,2014-01-17,2014-01-13,3,36.69,Photofeed,72210 Heffernan Place,Paninggaran,,,Indonesia
+34,29,9,2014-05-27,2014-06-10,2014-06-06,3,48,Gigazoom,1911 Dorton Point,Dassun,,,Philippines
+35,29,10,2013-12-28,2014-01-11,2014-01-07,3,6.14,Oyonder,4522 Hauk Center,Dawan,,,Indonesia
+36,77,2,2014-09-21,2014-10-05,2014-10-01,2,20.74,Kwinu,02 Cody Pass,Debrecen,Hajdú-Bihar,4004,Hungary
+37,56,9,2014-05-31,2014-06-14,2014-06-10,2,60.84,Avamm,2 Harbort Plaza,Conceição do Araguaia,,,Brazil
+38,69,1,2014-06-16,2014-06-30,2014-06-26,1,35.31,Pixope,4389 Fremont Terrace,Xomong,,,China
+39,80,7,2014-04-12,2014-04-26,2014-04-22,1,94.96,Kimia,80 Moose Court,Grazhdanka,,,Russia
+40,83,5,2014-03-25,2014-04-08,2014-04-04,3,90.01,Jaloo,9098 Huxley Street,Bisert’,,,Russia
+41,29,8,2014-07-10,2014-07-24,2014-07-20,1,33.26,Oyope,3137 Calypso Trail,Elimäki,,,Finland
+42,34,7,2014-06-10,2014-06-24,2014-06-20,2,67.22,Blognation,3 Village Way,Antsirabe,,,Madagascar
+43,75,5,2014-04-18,2014-05-02,2014-04-28,2,59.3,Eabox,15 Amoth Place,Radom,,,Poland
+44,39,1,2014-03-18,2014-04-01,2014-03-28,1,57.98,Youspan,8 Charing Cross Court,Santa Catarina Ixtahuacán,,,Guatemala
+45,25,9,2014-02-16,2014-03-02,2014-02-26,2,7.83,Gigabox,744 Farmco Avenue,Radostowice,,,Poland
+46,58,10,2014-04-11,2014-04-25,2014-04-21,2,6.46,Edgeclub,774 Main Place,Mabiton,,,Philippines
+47,57,2,2014-02-28,2014-03-14,2014-03-10,2,3.44,Eabox,64 Kings Court,Manolo Fortich,,,Philippines
+48,97,5,2013-12-16,2013-12-30,2013-12-26,3,74.16,Mynte,10828 Debra Place,Nancang,,,China
+49,38,1,2014-03-19,2014-04-02,2014-03-29,1,60.89,Rhybox,22 Delaware Way,Puszczykowo,,,Poland
+50,79,7,2014-05-09,2014-05-23,2014-05-19,2,82.83,Edgewire,6003 Anhalt Point,Vetrino,,,Bulgaria
+51,97,10,2014-01-08,2014-01-22,2014-01-18,3,71.33,Jaxnation,756 Macpherson Crossing,Kutamandarakan,,,Indonesia
+52,86,6,2014-01-10,2014-01-24,2014-01-20,1,99.26,Kayveo,4193 2nd Road,Suphan Buri,,,Thailand
+53,40,8,2014-01-22,2014-02-05,2014-02-01,2,79.48,Centizu,48 Novick Way,Orneta,,,Poland
+54,64,4,2014-03-30,2014-04-13,2014-04-09,1,99.45,Centizu,78808 Lakeland Alley,Piquete,,,Brazil
+55,66,6,2014-08-06,2014-08-20,2014-08-16,2,99.4,Teklist,4 Barnett Court,Birmingham,Alabama,35263,United States
+56,50,3,2014-03-26,2014-04-09,2014-04-05,3,86.32,Meembee,72359 Northridge Crossing,Shuangqiao,,,China
+57,91,3,2013-12-22,2014-01-05,2014-01-01,3,33.96,Skivee,92889 6th Avenue,Rájec-Jestřebí,,,Czech Republic
+58,91,5,2014-07-14,2014-07-28,2014-07-24,2,99.64,Jabberbean,31906 Killdeer Junction,Niort,Poitou-Charentes,79042 CEDEX 9,France
+59,20,6,2014-04-24,2014-05-08,2014-05-04,2,15.5,Devcast,93 Schmedeman Court,Banjaranyar,,,Indonesia
+60,60,9,2014-03-11,2014-03-25,2014-03-21,1,37.12,Dabjam,77565 Maryland Street,Perepravnaya,,,Russia
+61,8,7,2014-08-22,2014-09-05,2014-09-01,2,4.3,Kwimbee,968 Crowley Junction,Pivijay,,,Colombia
+62,92,9,2013-11-25,2013-12-09,2013-12-05,1,72.84,Avaveo,3 Porter Park,Jiasi,,,China
+63,95,8,2014-03-21,2014-04-04,2014-03-31,2,75.52,Bluejam,0226 Spaight Court,Bebedahan,,,Indonesia
+64,11,1,2014-11-20,2014-12-04,2014-11-30,3,51.58,Riffpedia,52 Algoma Place,Wiskitki,,,Poland
+65,27,1,2014-02-03,2014-02-17,2014-02-13,3,79.18,Photolist,7 Florence Avenue,Monte Aprazível,,,Brazil
+66,63,3,2014-05-26,2014-06-09,2014-06-05,2,16.37,Thoughtstorm,3721 Graedel Crossing,Lobamba,,,Swaziland
+67,44,7,2014-04-26,2014-05-10,2014-05-06,3,17.62,Eabox,6 Ruskin Park,Los Angeles,California,90189,United States
+68,33,3,2014-07-19,2014-08-02,2014-07-29,2,88.3,Edgewire,05 Cambridge Point,Mlandizi,,,Tanzania
+69,56,7,2014-07-11,2014-07-25,2014-07-21,2,5.73,Izio,2639 Bunker Hill Point,Myrnyy,,,Ukraine
+70,42,8,2014-08-28,2014-09-11,2014-09-07,1,13.58,Linkbridge,9569 Truax Circle,Jiashan,,,China
+71,63,6,2014-03-01,2014-03-15,2014-03-11,3,79.06,Divavu,89499 Talmadge Center,Baloc,,,Philippines
+72,39,7,2014-01-01,2014-01-15,2014-01-11,2,20.75,Skibox,389 Lukken Drive,Port-Vila,,,Vanuatu
+73,32,7,2014-03-17,2014-03-31,2014-03-27,1,37.74,Linkbridge,47 Menomonie Terrace,Tiaodeng,,,China
+74,47,7,2014-04-21,2014-05-05,2014-05-01,1,84.06,Kazu,70 Donald Crossing,Cruz das Almas,,,Brazil
+75,58,7,2013-12-27,2014-01-10,2014-01-06,3,81.47,Thoughtsphere,813 Kedzie Road,Lorient,Bretagne,56326 CEDEX,France
+76,91,6,2014-06-08,2014-06-22,2014-06-18,1,68.75,Yakitri,507 Longview Center,Emiliano Zapata,Veracruz Llave,92773,Mexico
+77,95,8,2014-09-26,2014-10-10,2014-10-06,3,1.9,Vidoo,067 Hudson Park,Thị Trấn Ngọc Lặc,,,Vietnam
+78,19,2,2014-02-02,2014-02-16,2014-02-12,2,85.65,Bluejam,3048 Garrison Lane,Salt Lake City,Utah,84115,United States
+79,32,5,2013-12-28,2014-01-11,2014-01-07,1,71.99,Minyx,46676 Stephen Avenue,Zhangqiang,,,China
+80,6,8,2013-12-02,2013-12-16,2013-12-12,3,97.87,Feedspan,01 Menomonie Plaza,Yizhivtsi,,,Ukraine
+81,95,3,2014-03-16,2014-03-30,2014-03-26,3,38.8,Pixope,924 Mandrake Parkway,Ábidos,,,Brazil
+82,37,7,2014-05-24,2014-06-07,2014-06-03,1,96.42,Skinix,5659 Colorado Circle,Itaguaí,,,Brazil
+83,57,6,2014-09-05,2014-09-19,2014-09-15,1,59.24,Eayo,7 Melody Court,Mapalad,,,Philippines
+84,52,3,2014-07-13,2014-07-27,2014-07-23,3,39.63,Quatz,6 Eastwood Place,Tiyingtali Kelod,,,Indonesia
+85,6,3,2014-03-28,2014-04-11,2014-04-07,2,48.02,Zoomzone,08677 Quincy Crossing,Seraya,,,Indonesia
+86,42,8,2014-01-13,2014-01-27,2014-01-23,2,30.91,Yata,0530 Bobwhite Circle,Wenceslao Escalante,,,Argentina
+87,77,4,2014-10-22,2014-11-05,2014-11-01,2,5.36,Yacero,8760 Little Fleur Avenue,Pakokku,,,Myanmar
+88,31,3,2013-12-18,2014-01-01,2013-12-28,3,50.95,Tavu,6389 Sutherland Avenue,Sampués,,,Colombia
+89,13,10,2014-07-22,2014-08-05,2014-08-01,2,9.11,Eadel,7 Ohio Street,Minbu,,,Myanmar
+90,94,9,2014-01-05,2014-01-19,2014-01-15,2,10.65,Flashdog,084 Brown Court,Mindupok,,,Philippines
+91,10,3,2014-07-19,2014-08-02,2014-07-29,1,84.12,Zoomcast,59211 Mitchell Plaza,Mosteiró,Porto,4485-367,Portugal
+92,4,10,2014-06-03,2014-06-17,2014-06-13,2,15.62,Youspan,8 Kennedy Pass,Qızılhacılı,,,Azerbaijan
+93,43,4,2014-05-20,2014-06-03,2014-05-30,3,94.21,Vitz,91 International Trail,Kayima,,,Sierra Leone
+94,5,10,2014-10-01,2014-10-15,2014-10-11,2,25.08,Chatterpoint,64688 Moose Place,Batgrām,,,Pakistan
+95,66,4,2014-05-17,2014-05-31,2014-05-27,3,90.44,Plajo,06 Northport Terrace,Honghualiangzi,,,China
+96,61,1,2014-02-12,2014-02-26,2014-02-22,2,81.88,Skiptube,2204 Dunning Point,Jabon,,,Indonesia
+97,17,10,2014-01-02,2014-01-16,2014-01-12,2,98.97,Shufflebeat,943 International Avenue,Sujiatun,,,China
+98,44,6,2014-09-14,2014-09-28,2014-09-24,2,4.08,Plambee,9 Michigan Way,Nyimba,,,Zambia
+99,29,4,2014-02-11,2014-02-25,2014-02-21,3,76.02,Voomm,490 Norway Maple Junction,Alexandroúpoli,,,Greece
+100,23,6,2014-05-18,2014-06-01,2014-05-28,3,63.95,Roombo,4 Sachtjen Drive,Batambak,,,Indonesia
+101,80,6,2014-03-19,2014-04-02,2014-03-29,2,15.22,Wordify,29340 Vera Center,Tayabo,,,Philippines
+102,91,5,2014-02-13,2014-02-27,2014-02-23,2,56.93,Youopia,7028 Sunnyside Avenue,Kostrovo,,,Russia
+103,60,7,2014-10-02,2014-10-16,2014-10-12,3,85.63,Innotype,10 Crowley Road,Bagumbayan,,,Philippines
+104,30,6,2014-07-03,2014-07-17,2014-07-13,1,58.76,Voolia,025 Eggendart Avenue,Logon,,,Philippines
+105,87,8,2014-07-29,2014-08-12,2014-08-08,1,60.39,Blogtags,78 Stone Corner Lane,Guozhai,,,China
+106,61,8,2014-11-16,2014-11-30,2014-11-26,3,44.24,Youopia,61 Delladonna Pass,Sukamantri Satu,,,Indonesia
+107,69,7,2014-06-02,2014-06-16,2014-06-12,1,54.85,Pixoboo,37411 Lerdahl Hill,Dowlatyār,,,Afghanistan
+108,44,8,2014-09-04,2014-09-18,2014-09-14,2,26.59,Pixonyx,7 Park Meadow Place,Liuhe,,,China
+109,29,1,2014-06-19,2014-07-03,2014-06-29,3,10.37,Thoughtstorm,9803 Sullivan Parkway,Lexington,Kentucky,40510,United States
+110,71,5,2014-11-17,2014-12-01,2014-11-27,1,35.78,Rhynyx,7276 Armistice Circle,João Alfredo,,,Brazil
+111,9,7,2014-09-04,2014-09-18,2014-09-14,2,76.79,Twimm,35909 Spenser Court,Bogdaniec,,,Poland
+112,6,1,2014-05-11,2014-05-25,2014-05-21,3,83.77,Meevee,9456 Brown Pass,Sukojember,,,Indonesia
+113,40,5,2014-11-06,2014-11-20,2014-11-16,2,66.2,Innojam,2647 Monument Hill,Elliot,,,South Africa
+114,41,8,2014-11-15,2014-11-29,2014-11-25,1,69.36,Skinder,06 Sloan Park,Sieroszewice,,,Poland
+115,4,10,2014-07-24,2014-08-07,2014-08-03,2,21.5,Twitterworks,23618 Dunning Way,Yahe,,,China
+116,85,5,2013-12-29,2014-01-12,2014-01-08,1,73.08,Devcast,0 Loeprich Trail,Knivsta,Uppsala,741 96,Sweden
+117,63,6,2014-05-29,2014-06-12,2014-06-08,1,52.39,Kazio,209 Artisan Parkway,Łazy,,,Poland
+118,98,3,2014-09-08,2014-09-22,2014-09-18,2,77.84,Vidoo,43664 Mockingbird Park,Inozemtsevo,,,Russia
+119,90,4,2014-03-07,2014-03-21,2014-03-17,2,94.35,Yodel,89 Tennyson Way,Logon,,,Philippines
+120,17,7,2014-02-14,2014-02-28,2014-02-24,2,16.86,Trunyx,8 Huxley Street,Wielgie,,,Poland
+121,71,8,2014-06-03,2014-06-17,2014-06-13,2,31.87,Gigazoom,05 Riverside Center,Montelíbano,,,Colombia
+122,96,8,2014-08-19,2014-09-02,2014-08-29,1,80.71,Riffwire,40380 Mayfield Terrace,Tawangsari,,,Indonesia
+123,59,2,2013-12-09,2013-12-23,2013-12-19,2,7.2,Flashset,5 Lakewood Court,Azurduy,,,Bolivia
+124,64,9,2014-01-12,2014-01-26,2014-01-22,1,8.11,Muxo,22603 Cody Circle,Матејче,,,Macedonia
+125,24,4,2014-05-22,2014-06-05,2014-06-01,1,97,Centidel,45594 Clemons Center,Qiujima,,,China
+126,62,4,2014-09-23,2014-10-07,2014-10-03,3,51.98,Yodoo,22467 Dorton Lane,Şalākhid,,,Syria
+127,29,9,2014-05-01,2014-05-15,2014-05-11,2,31.24,Photojam,77 Summit Park,Shigu,,,China
+128,80,4,2014-07-18,2014-08-01,2014-07-28,1,32.35,Brightbean,5319 Lake View Place,Cotmon,,,Philippines
+129,63,5,2014-07-01,2014-07-15,2014-07-11,3,63.51,Quinu,79309 Golf View Crossing,Xinpu,,,China
+130,19,9,2014-03-30,2014-04-13,2014-04-09,2,39.62,Youtags,2 Boyd Park,Vrangel’,,,Russia
+131,2,9,2014-01-11,2014-01-25,2014-01-21,2,9.78,Tambee,2 Myrtle Drive,Žirovnice,,,Czech Republic
+132,69,7,2014-08-24,2014-09-07,2014-09-03,1,93.46,Browsezoom,20 Dakota Hill,Horta,Aveiro,3800-716,Portugal
+133,19,7,2014-03-11,2014-03-25,2014-03-21,3,88.03,Aibox,660 Morrow Lane,Puszczykowo,,,Poland
+134,45,5,2014-05-30,2014-06-13,2014-06-09,1,37.25,Rooxo,62632 Superior Center,Gaosheng,,,China
+135,36,3,2014-09-23,2014-10-07,2014-10-03,3,3.69,Buzzdog,361 Hansons Pass,Águia Branca,,,Brazil
+136,65,5,2014-04-25,2014-05-09,2014-05-05,3,48.51,Ailane,66 Heath Court,Sandefjord,Vestfold,3210,Norway
+137,55,9,2014-04-28,2014-05-12,2014-05-08,1,27.7,Photolist,6 Holmberg Place,Zhaigang,,,China
+138,100,9,2014-01-10,2014-01-24,2014-01-20,2,57.81,Janyx,04291 Lakeland Avenue,Huochang,,,China
+139,39,7,2014-05-11,2014-05-25,2014-05-21,3,10.73,Riffwire,9380 Valley Edge Center,Salisbury,,,Dominica
+140,17,5,2014-03-05,2014-03-19,2014-03-15,3,9.92,Eazzy,5 Hooker Center,Mautapaga Bawah,,,Indonesia
+141,62,7,2014-06-17,2014-07-01,2014-06-27,1,39.45,Camido,3 Southridge Terrace,Falun,Dalarna,791 91,Sweden
+142,32,4,2014-04-07,2014-04-21,2014-04-17,1,24.22,Jabbertype,011 Green Ridge Center,Rauco,,,Chile
+143,14,5,2014-11-22,2014-12-06,2014-12-02,3,3.35,Skinix,6 Shasta Plaza,Prey Veng,,,Cambodia
+144,44,2,2014-08-20,2014-09-03,2014-08-30,1,13.29,Devbug,85063 Leroy Pass,Xiahong,,,China
+145,32,7,2014-11-05,2014-11-19,2014-11-15,3,11.57,Photofeed,01667 Pepper Wood Lane,Trmice,,,Czech Republic
+146,48,4,2014-10-26,2014-11-09,2014-11-05,2,51.92,Divape,342 Delladonna Road,Fengmu,,,China
+147,19,6,2014-04-09,2014-04-23,2014-04-19,2,85.34,Dabshots,08 Orin Street,Bolilao,,,Philippines
+148,17,9,2014-05-05,2014-05-19,2014-05-15,2,49.77,Devpulse,354 Daystar Street,Huatan,,,China
+149,79,9,2014-01-02,2014-01-16,2014-01-12,1,84.48,Zava,4185 Clemons Court,Los Angeles,California,90055,United States
+150,70,2,2014-09-14,2014-09-28,2014-09-24,3,16.25,Leenti,3 Veith Crossing,Lemland,,,Aland Islands
+151,42,3,2014-08-28,2014-09-11,2014-09-07,1,92.26,Topicware,24 Prairieview Court,Jiangyan,,,China
+152,43,6,2014-09-10,2014-09-24,2014-09-20,2,5.76,Photofeed,4 Granby Crossing,Kuznechikha,,,Russia
+153,64,10,2014-07-10,2014-07-24,2014-07-20,3,5.24,Ozu,61 Ryan Park,Zhongling,,,China
+154,17,7,2014-08-13,2014-08-27,2014-08-23,2,56.76,Talane,77 Delladonna Drive,Ryūgasaki,,,Japan
+155,4,1,2014-05-24,2014-06-07,2014-06-03,1,97.19,Flipopia,783 Monument Drive,Longgang,,,China
+156,14,7,2014-05-19,2014-06-02,2014-05-29,3,72.39,Bubblemix,399 Pearson Circle,Huata,,,Peru
+157,1,1,2014-05-11,2014-05-25,2014-05-21,2,90.25,Dynazzy,5 Straubel Crossing,Villa Ocampo,,,Argentina
+158,31,3,2014-08-18,2014-09-01,2014-08-28,2,81.83,Yabox,3667 Monument Avenue,Bailianhe,,,China
+159,17,9,2013-11-26,2013-12-10,2013-12-06,1,9.27,Yakijo,026 Grim Point,Dinjo,,,Indonesia
+160,67,8,2014-06-16,2014-06-30,2014-06-26,2,98.43,Meemm,2 Sutherland Plaza,Aoqiao,,,China
+161,34,2,2014-10-18,2014-11-01,2014-10-28,1,43.21,Brightdog,22369 Scofield Trail,Kaset Sombun,,,Thailand
+162,28,5,2014-02-01,2014-02-15,2014-02-11,1,34.85,Babbleset,9430 Sloan Place,Sinabang,,,Indonesia
+163,19,3,2014-09-29,2014-10-13,2014-10-09,3,81.16,Centidel,81 Barby Circle,San Luis Jilotepeque,,,Guatemala
+164,37,1,2014-08-04,2014-08-18,2014-08-14,3,24.56,Layo,98192 West Drive,Pau,Aquitaine,64080 CEDEX,France
+165,31,5,2014-10-18,2014-11-01,2014-10-28,2,60.19,Voonix,16177 Sauthoff Crossing,Al Kittah,,,Jordan
+166,18,5,2014-06-19,2014-07-03,2014-06-29,1,7.24,Gigabox,08 Mallard Place,Toshkivka,,,Ukraine
+167,95,8,2014-04-08,2014-04-22,2014-04-18,3,82.26,Zoozzy,4769 Pankratz Court,Benešov,,,Czech Republic
+168,60,1,2014-04-26,2014-05-10,2014-05-06,2,40.83,Jabberstorm,28 Eagle Crest Road,Xuefu,,,China
+169,32,8,2014-11-13,2014-11-27,2014-11-23,3,15.01,Yacero,9500 Tony Circle,Bajiao,,,China
+170,59,2,2014-08-02,2014-08-16,2014-08-12,2,47.83,Feedfish,7053 Delaware Parkway,Talibura,,,Indonesia
+171,56,2,2014-11-05,2014-11-19,2014-11-15,2,91.43,Topdrive,59 Namekagon Trail,"Villa Presidente Frei, Ñuñoa, Santiago, Chile",,,Chile
+172,69,10,2014-10-15,2014-10-29,2014-10-25,1,33.77,Zoonder,99 Almo Hill,Vatutino,,,Russia
+173,14,6,2014-01-03,2014-01-17,2014-01-13,2,46.2,Avaveo,3 Arizona Point,Huicungo,,,Peru
+174,30,5,2014-01-01,2014-01-15,2014-01-11,1,29.44,Devpulse,5 Pennsylvania Point,Malec,,,Poland
+175,81,1,2014-07-09,2014-07-23,2014-07-19,2,98.05,Ainyx,51509 1st Drive,Lazaro Cardenas,Veracruz Llave,92933,Mexico
+176,23,4,2014-06-21,2014-07-05,2014-07-01,1,19.78,Oyope,9 Havey Center,Dvůr Králové nad Labem,,,Czech Republic
+177,47,2,2013-12-10,2013-12-24,2013-12-20,3,10.74,Avamba,55 Westerfield Trail,Maglajani,,,Bosnia and Herzegovina
+178,96,7,2014-06-26,2014-07-10,2014-07-06,2,74.4,Twinte,9765 Goodland Way,Anahuac,Veracruz Llave,92035,Mexico
+179,14,2,2014-01-29,2014-02-12,2014-02-08,3,74.67,Yozio,628 Norway Maple Plaza,Rurrenabaque,,,Bolivia
+180,32,2,2014-01-01,2014-01-15,2014-01-11,1,46.35,Jayo,1 Crest Line Lane,Dulangan,,,Philippines
+181,42,9,2014-10-16,2014-10-30,2014-10-26,2,59.14,Riffpath,0 Hayes Terrace,Makubetsu,,,Japan
+182,55,7,2013-12-28,2014-01-11,2014-01-07,3,81.61,Mynte,47 Bobwhite Center,Daxi,,,China
+183,76,8,2013-11-26,2013-12-10,2013-12-06,1,1.55,Jabberstorm,6 Granby Alley,Huddinge,Stockholm,141 53,Sweden
+184,10,7,2014-08-27,2014-09-10,2014-09-06,3,16.89,Brainverse,21333 Dwight Way,La Bélgica,,,Bolivia
+185,71,10,2014-01-29,2014-02-12,2014-02-08,1,2.42,Miboo,98 Elmside Pass,Gävle,Gävleborg,806 43,Sweden
+186,10,10,2014-06-13,2014-06-27,2014-06-23,2,57.01,Rhyzio,2 Badeau Lane,Primorsk,,,Russia
+187,76,6,2014-05-20,2014-06-03,2014-05-30,1,36.85,Topdrive,4664 Graceland Street,Chrastava,,,Czech Republic
+188,100,3,2014-01-26,2014-02-09,2014-02-05,3,6.47,Aimbu,9 Park Meadow Junction,Arwād,,,Syria
+189,13,5,2014-03-17,2014-03-31,2014-03-27,2,51.37,Realmix,531 Bashford Street,Montinho,Porto,4625-608,Portugal
+190,1,2,2014-01-07,2014-01-21,2014-01-17,1,28.23,Feedbug,69 Farwell Junction,Seoul,,,South Korea
+191,61,2,2014-03-31,2014-04-14,2014-04-10,2,59.48,Izio,30 Loomis Place,Kara Suu,,,Kyrgyzstan
+192,39,8,2014-06-11,2014-06-25,2014-06-21,2,4.01,Katz,7 Mayfield Lane,Qianjin,,,China
+193,45,4,2014-09-11,2014-09-25,2014-09-21,3,78.81,Bubblemix,744 Warner Center,Jasionów,,,Poland
+194,35,1,2014-08-31,2014-09-14,2014-09-10,1,81.53,Eabox,3726 Myrtle Trail,Jomda,,,China
+195,84,1,2014-05-14,2014-05-28,2014-05-24,3,23.31,Midel,270 8th Lane,Bertioga,,,Brazil
+196,89,10,2014-10-23,2014-11-06,2014-11-02,3,62.1,Zooxo,41 Merrick Terrace,Tama,,,Argentina
+197,20,4,2014-03-26,2014-04-09,2014-04-05,3,18,Devshare,83 Eggendart Pass,Aravissós,,,Greece
+198,99,9,2014-07-19,2014-08-02,2014-07-29,1,75.43,Zoomcast,46568 Lien Plaza,Checca,,,Peru
+199,85,5,2014-10-11,2014-10-25,2014-10-21,3,54.43,Tagopia,25 Schiller Place,Bergen,Hordaland,5857,Norway
+200,43,6,2014-01-03,2014-01-17,2014-01-13,2,21.16,Brainbox,9 Mallory Plaza,Guantánamo,,,Cuba
+201,25,1,2014-03-22,2014-04-05,2014-04-01,2,72.44,Rooxo,80 Susan Crossing,Stonewall,,,Canada
+202,97,5,2014-01-01,2014-01-15,2014-01-11,2,18.49,Aibox,0 Ruskin Center,Đồng Mỏ,,,Vietnam
+203,100,4,2014-03-11,2014-03-25,2014-03-21,2,24.19,Zoonder,4 Porter Court,Jiaqu,,,China
+204,55,2,2014-10-01,2014-10-15,2014-10-11,2,64.71,Jamia,668 Fairview Place,Wysokie Mazowieckie,,,Poland
+205,2,6,2014-03-12,2014-03-26,2014-03-22,3,9.43,Tagtune,74526 Heffernan Center,Pardesiyya,,,Israel
+206,84,2,2013-11-26,2013-12-10,2013-12-06,2,46.07,Tekfly,36 7th Terrace,Maharagama,,,Sri Lanka
+207,33,10,2014-09-23,2014-10-07,2014-10-03,1,35.2,Eazzy,366 Farragut Park,Shanghuang,,,China
+208,52,2,2014-01-12,2014-01-26,2014-01-22,3,85.6,Oyoloo,1930 Veith Circle,Jiuting,,,China
+209,8,3,2014-07-05,2014-07-19,2014-07-15,2,98.37,Zava,32226 Eagan Alley,Maukaro,,,Indonesia
+210,92,2,2014-06-25,2014-07-09,2014-07-05,3,35.57,Fivespan,8 Maywood Center,Alue Glumpang,,,Indonesia
+211,57,10,2014-01-01,2014-01-15,2014-01-11,3,87.86,Vinder,5 Melody Crossing,Houston,Texas,77288,United States
+212,53,4,2014-08-21,2014-09-04,2014-08-31,3,51.58,Mydo,8081 Jana Point,Karara,,,Indonesia
+213,52,1,2014-11-09,2014-11-23,2014-11-19,3,15.18,Eimbee,29384 Birchwood Center,Binangun,,,Indonesia
+214,79,3,2014-05-31,2014-06-14,2014-06-10,2,19.01,Rooxo,889 Spenser Avenue,Kikinda,,,Serbia
+215,36,5,2014-01-15,2014-01-29,2014-01-25,3,39.61,Topicblab,6138 Portage Trail,Angatel,,,Philippines
+216,89,3,2013-12-24,2014-01-07,2014-01-03,2,62.36,Devpulse,35 Crowley Junction,Boluo,,,China
+217,99,5,2014-10-22,2014-11-05,2014-11-01,2,79.34,Browsezoom,27 Lighthouse Bay Road,Linshui,,,China
+218,4,7,2014-07-01,2014-07-15,2014-07-11,2,13.76,Skinte,7979 Carberry Court,Villeneuve-la-Garenne,Île-de-France,92398 CEDEX,France
+219,31,6,2014-09-08,2014-09-22,2014-09-18,3,32.07,Vidoo,07866 Amoth Hill,Kutasari,,,Indonesia
+220,26,10,2014-07-06,2014-07-20,2014-07-16,3,11.8,Thoughtbeat,3 Sunnyside Court,Roma,Lazio,00141,Italy
+221,14,3,2014-07-05,2014-07-19,2014-07-15,2,82.49,Kayveo,74788 Forest Park,Karangpocok,,,Indonesia
+222,4,3,2014-06-09,2014-06-23,2014-06-19,1,3.75,Avaveo,3 Onsgard Point,Dungloe,,,Ireland
+223,11,4,2014-10-14,2014-10-28,2014-10-24,3,14.82,Blogpad,82 Prairie Rose Circle,Jönköping,Jönköping,555 94,Sweden
+224,95,9,2014-01-31,2014-02-14,2014-02-10,1,44.42,Dabfeed,088 Waywood Plaza,Duwayr Raslān,,,Syria
+225,68,10,2014-10-03,2014-10-17,2014-10-13,2,41.88,Rhybox,43 Waywood Place,Dankalwa,,,Nigeria
+226,90,5,2014-02-12,2014-02-26,2014-02-22,3,85.22,Zoomcast,67478 Onsgard Way,Maracanã,,,Brazil
+227,31,8,2014-03-19,2014-04-02,2014-03-29,1,72.32,Trunyx,649 1st Avenue,Aranitas,,,Albania
+228,45,9,2013-12-08,2013-12-22,2013-12-18,1,82.59,Brainbox,444 Crest Line Pass,Mehmand Chak,,,Pakistan
+229,35,7,2014-09-25,2014-10-09,2014-10-05,1,26.5,Feedfire,6985 Jenifer Trail,Cabiao,,,Philippines
+230,74,8,2014-04-24,2014-05-08,2014-05-04,2,87.56,Aivee,4 Norway Maple Circle,Hongmiao,,,China
+231,91,6,2014-07-11,2014-07-25,2014-07-21,3,80.74,Yakijo,6941 Jana Court,Nugas,,,Philippines
+232,8,1,2014-09-23,2014-10-07,2014-10-03,2,50.81,Voonyx,20 Village Pass,Laxou,Lorraine,54529 CEDEX,France
+233,60,3,2014-09-14,2014-09-28,2014-09-24,1,20.24,Gigazoom,1420 Atwood Point,Kongkeshu,,,China
+234,4,10,2014-11-05,2014-11-19,2014-11-15,1,19.41,Eabox,94994 Cardinal Drive,Syamzha,,,Russia
+235,78,8,2014-01-14,2014-01-28,2014-01-24,2,86.65,Zoomlounge,79830 Comanche Crossing,Guashe,,,China
+236,51,5,2014-06-11,2014-06-25,2014-06-21,2,28.35,Blogspan,2 Esker Pass,Parigi,,,Indonesia
+237,30,1,2014-05-17,2014-05-31,2014-05-27,3,76.6,Realpoint,8 Thackeray Terrace,Al Mashāf,,,Yemen
+238,94,4,2013-12-25,2014-01-08,2014-01-04,3,88.94,Wordpedia,8216 Clove Circle,Segezha,,,Russia
+239,9,1,2014-02-28,2014-03-14,2014-03-10,2,71.98,Thoughtbeat,8324 Fulton Alley,Jiuhua,,,China
+240,64,5,2014-03-04,2014-03-18,2014-03-14,3,6.27,Devify,53589 Blue Bill Park Road,Utkivka,,,Ukraine
+241,41,3,2014-02-17,2014-03-03,2014-02-27,3,21.7,Jaxbean,9321 School Center,Lobuk,,,Indonesia
+242,80,2,2014-10-22,2014-11-05,2014-11-01,3,40.58,Jabbersphere,5 Truax Terrace,Villa Santa Rita,,,Argentina
+243,47,9,2014-06-29,2014-07-13,2014-07-09,1,53.74,Jamia,206 Jenifer Hill,Oke Iho,,,Nigeria
+244,44,1,2014-03-01,2014-03-15,2014-03-11,3,13.92,Yoveo,3160 Graedel Crossing,Cileunyi,,,Indonesia
+245,46,10,2014-05-17,2014-05-31,2014-05-27,1,6.06,Bubblemix,3404 Loftsgordon Drive,Huikou,,,China
+246,56,8,2014-10-09,2014-10-23,2014-10-19,1,10.56,Roombo,18107 Jackson Point,Macabugos,,,Philippines
+247,86,7,2014-08-25,2014-09-08,2014-09-04,1,75.51,Mynte,93394 Namekagon Crossing,Paris 17,Île-de-France,75808 CEDEX 17,France
+248,83,1,2014-08-17,2014-08-31,2014-08-27,2,20.7,Wordtune,72 Spenser Way,Yunmenling,,,China
+249,42,6,2014-07-09,2014-07-23,2014-07-19,2,94.93,Twitternation,021 Westport Hill,Haolibao,,,China
+250,56,1,2014-09-18,2014-10-02,2014-09-28,1,30.2,Mybuzz,79 Havey Park,Sabang,,,Philippines
+251,8,4,2014-05-13,2014-05-27,2014-05-23,1,4.46,Realfire,56121 Bowman Park,Bollène,Provence-Alpes-Côte d'Azur,84504 CEDEX,France
+252,29,10,2014-08-07,2014-08-21,2014-08-17,3,25.23,Gabspot,60074 Hansons Place,Cincinnati,Ohio,45249,United States
+253,54,1,2014-09-18,2014-10-02,2014-09-28,1,73.91,Thoughtbridge,2609 Porter Circle,Järvakandi,,,Estonia
+254,59,5,2014-02-19,2014-03-05,2014-03-01,3,26.32,Linkbridge,375 Dottie Parkway,Mirpur Khas,,,Pakistan
+255,54,4,2014-11-13,2014-11-27,2014-11-23,2,76.55,Oloo,26 Brown Crossing,Mosal’sk,,,Russia
+256,28,10,2014-10-06,2014-10-20,2014-10-16,3,34.93,Shufflester,45 Golf View Place,Oslo,Oslo,0123,Norway
+257,19,9,2014-01-05,2014-01-19,2014-01-15,2,9.54,Dynabox,442 Butterfield Plaza,Aleksandrovskiy Zavod,,,Russia
+258,38,4,2014-03-12,2014-03-26,2014-03-22,1,82.63,Brainbox,94 Schlimgen Terrace,San Jose,,,Philippines
+259,71,1,2014-07-06,2014-07-20,2014-07-16,3,95.48,Meejo,250 Melody Street,Ticrapo,,,Peru
+260,15,10,2014-10-22,2014-11-05,2014-11-01,2,26.83,Dabjam,66 Mockingbird Park,Joyabaj,,,Guatemala
+261,48,5,2014-07-05,2014-07-19,2014-07-15,1,66.28,Zoomzone,869 Basil Plaza,Nanortalik,,,Greenland
+262,67,6,2014-10-08,2014-10-22,2014-10-18,1,84.13,Fivebridge,7448 Leroy Parkway,Obong,,,Philippines
+263,30,7,2014-02-27,2014-03-13,2014-03-09,2,48.48,Skiptube,0993 Quincy Place,Santa Cruz del Quiché,,,Guatemala
+264,93,8,2014-07-03,2014-07-17,2014-07-13,1,63.47,Yadel,937 Butterfield Hill,Huangji,,,China
+265,47,10,2014-11-14,2014-11-28,2014-11-24,3,29.75,Mycat,67 Stone Corner Circle,Mogok,,,Myanmar
+266,91,8,2014-04-21,2014-05-05,2014-05-01,3,98.38,Innotype,37 Westend Junction,Labuhan,,,Indonesia
+267,98,10,2014-11-16,2014-11-30,2014-11-26,3,54.79,Roodel,638 Fisk Drive,Erdaojiang,,,China
+268,17,9,2014-03-02,2014-03-16,2014-03-12,1,24.5,Twitterlist,6 Gulseth Terrace,Ershilipu,,,China
+269,54,8,2014-04-02,2014-04-16,2014-04-12,2,63.94,Babbleset,9010 Jana Lane,Hongqi,,,China
+270,85,10,2014-03-19,2014-04-02,2014-03-29,3,98.09,Mynte,1 Marquette Park,Kempele,,,Finland
+271,31,8,2014-10-10,2014-10-24,2014-10-20,2,43.77,Muxo,4913 Golden Leaf Lane,São Pedro,Lisboa,2710-470,Portugal
+272,37,1,2014-08-29,2014-09-12,2014-09-08,2,88.98,Zoonder,3783 Caliangt Point,Sintansin,,,South Korea
+273,88,1,2014-11-19,2014-12-03,2014-11-29,1,12.92,Aimbu,40 Sloan Point,Razvanje,,,Slovenia
+274,24,6,2014-08-08,2014-08-22,2014-08-18,3,63.61,Meevee,09 Hanson Avenue,New Plymouth,,,New Zealand
+275,7,2,2014-07-07,2014-07-21,2014-07-17,1,45.79,Feedspan,972 Hintze Street,Helvecia,,,Argentina
+276,55,9,2014-11-09,2014-11-23,2014-11-19,1,75.82,Avamm,64 Summit Alley,Banghai,,,China
+277,71,6,2014-07-19,2014-08-02,2014-07-29,1,81.49,Meejo,5 Washington Parkway,Baihe,,,China
+278,86,5,2014-07-21,2014-08-04,2014-07-31,2,89.55,Jaxspan,3419 Norway Maple Terrace,Dongxi,,,China
+279,10,7,2014-06-25,2014-07-09,2014-07-05,2,18.68,Jaloo,9 Esker Drive,Seke,,,China
+280,35,1,2014-05-08,2014-05-22,2014-05-18,3,64.78,Youopia,98469 Lukken Hill,San Marcos,Guanajuato,36951,Mexico
+281,54,9,2014-02-26,2014-03-12,2014-03-08,1,69.19,Topicware,98 Graceland Place,Huanglong,,,China
+282,7,6,2014-09-01,2014-09-15,2014-09-11,1,4.66,Demizz,2 Florence Park,Jorong Lauk,,,Indonesia
+283,75,4,2014-07-20,2014-08-03,2014-07-30,3,56.48,Trunyx,248 Manitowish Alley,Stapleford,England,LN6,United Kingdom
+284,89,8,2014-08-02,2014-08-16,2014-08-12,3,87.37,Skyndu,44486 Leroy Road,Václavovice,,,Czech Republic
+285,94,4,2014-07-26,2014-08-09,2014-08-05,2,51.25,DabZ,67303 Roth Circle,Cacaopera,,,El Salvador
+286,36,5,2014-04-25,2014-05-09,2014-05-05,1,66.06,Aimbo,37371 Schlimgen Way,Metallostroy,,,Russia
+287,65,9,2014-02-20,2014-03-06,2014-03-02,2,77.94,Quamba,0 Nobel Pass,Anaco,,,Venezuela
+288,74,10,2014-06-02,2014-06-16,2014-06-12,3,4.41,Centimia,7001 Express Way,Karanglo,,,Indonesia
+289,4,10,2014-10-10,2014-10-24,2014-10-20,2,76.24,Skinder,6953 Stone Corner Court,Dundbürd,,,Mongolia
+290,71,1,2014-10-28,2014-11-11,2014-11-07,2,33.16,Meeveo,00463 Bultman Terrace,Torkanivka,,,Ukraine
+291,29,4,2014-07-12,2014-07-26,2014-07-22,3,52.81,Oodoo,5 Di Loreto Hill,Yiánnouli,,,Greece
+292,20,3,2014-01-19,2014-02-02,2014-01-29,3,51.29,Wikido,8064 Kipling Park,Urrao,,,Colombia
+293,46,8,2014-08-16,2014-08-30,2014-08-26,2,65.45,Latz,6395 Portage Place,Inazawa,,,Japan
+294,57,3,2014-09-27,2014-10-11,2014-10-07,3,39.62,Bubbletube,37407 Haas Circle,Jeziora Wielkie,,,Poland
+295,26,9,2014-06-15,2014-06-29,2014-06-25,2,92.87,Realcube,4188 Warrior Junction,Sevilla,,,Colombia
+296,91,7,2014-09-26,2014-10-10,2014-10-06,2,98.51,Pixonyx,056 Crest Line Hill,Māymay,,,Afghanistan
+297,2,3,2014-09-26,2014-10-10,2014-10-06,1,55.7,Shuffledrive,81383 Esch Way,Aleksandrovac,,,Serbia
+298,36,9,2014-05-24,2014-06-07,2014-06-03,1,99.62,Flashset,41 Delaware Plaza,Longcang,,,China
+299,73,7,2014-05-30,2014-06-13,2014-06-09,2,64.35,Photofeed,08 Fairview Pass,San Juan,,,Philippines
+300,14,2,2013-12-05,2013-12-19,2013-12-15,1,7.07,Skipfire,848 Pawling Pass,Lagoa,Faro,8400-305,Portugal
+301,11,9,2014-04-19,2014-05-03,2014-04-29,3,19.55,Buzzbean,87 Fisk Way,Challans,Pays de la Loire,85304 CEDEX,France
+302,18,7,2014-09-20,2014-10-04,2014-09-30,1,44.43,Thoughtstorm,1760 Service Trail,Åmål,Västra Götaland,662 24,Sweden
+303,16,9,2014-03-22,2014-04-05,2014-04-01,1,59.96,Skyble,21 Sutteridge Way,Tierra y Libertad,Chihuahua,32628,Mexico
+304,69,6,2014-05-12,2014-05-26,2014-05-22,2,10.63,Camimbo,15 Fisk Way,Presidencia Roque Sáenz Peña,,,Argentina
+305,35,8,2014-07-16,2014-07-30,2014-07-26,1,4.44,Pixope,404 Esch Way,Ikeda,,,Japan
+306,57,5,2014-07-26,2014-08-09,2014-08-05,2,27.22,Eabox,138 Schlimgen Drive,Kembang,,,Indonesia
+307,39,1,2014-05-22,2014-06-05,2014-06-01,1,28.9,Vidoo,811 Loftsgordon Junction,Svetlograd,,,Russia
+308,57,1,2013-12-24,2014-01-07,2014-01-03,3,21.64,Quamba,30226 Elgar Terrace,Mandalgovi,,,Mongolia
+309,95,1,2014-08-23,2014-09-06,2014-09-02,2,60.4,Shufflebeat,837 Hazelcrest Hill,Malata,,,Indonesia
+310,2,8,2014-05-31,2014-06-14,2014-06-10,3,48.05,Lazzy,58 Gerald Center,Đồi Ngô,,,Vietnam
+311,37,10,2014-03-26,2014-04-09,2014-04-05,3,92.66,Zoombox,080 Artisan Drive,At Taḩālif,,,Yemen
+312,75,3,2014-01-17,2014-01-31,2014-01-27,3,99.18,Minyx,51 Michigan Pass,Melaka,Melaka,75610,Malaysia
+313,80,3,2014-04-01,2014-04-15,2014-04-11,3,3.89,Brainverse,51594 Bultman Road,Pérama,,,Greece
+314,2,3,2014-07-16,2014-07-30,2014-07-26,2,84.74,Zoozzy,6 Schlimgen Terrace,Sangzhen,,,China
+315,7,8,2014-02-05,2014-02-19,2014-02-15,1,92.22,Topicstorm,52 Coolidge Avenue,Áno Merá,,,Greece
+316,80,1,2014-10-31,2014-11-14,2014-11-10,1,50.86,Jaloo,67641 Ridgeway Street,Uherské Hradiště,,,Czech Republic
+317,13,3,2014-10-16,2014-10-30,2014-10-26,3,50.01,Babblestorm,8722 Colorado Junction,Xitieshan,,,China
+318,56,3,2014-03-25,2014-04-08,2014-04-04,2,65.05,Oyondu,87 Bluejay Point,Nong Don,,,Thailand
+319,40,7,2014-06-30,2014-07-14,2014-07-10,1,70.14,Zoombeat,073 Towne Parkway,Valencia,Comunidad Valenciana,46015,Spain
+320,45,3,2014-01-13,2014-01-27,2014-01-23,2,73.29,Brainbox,34658 Esker Lane,Cotuí,,,Dominican Republic
+321,95,4,2014-04-25,2014-05-09,2014-05-05,2,70.63,Meeveo,7944 Farwell Alley,São Paio de Seide,Braga,4770-665,Portugal
+322,48,7,2014-05-30,2014-06-13,2014-06-09,3,99.05,Voolia,85 Schlimgen Trail,Buyunshan,,,China
+323,75,6,2014-09-08,2014-09-22,2014-09-18,2,32.69,Reallinks,46243 Del Mar Plaza,Sarishābāri,,,Bangladesh
+324,82,2,2013-12-13,2013-12-27,2013-12-23,1,91.23,Thoughtsphere,80 Fremont Court,Cibunar,,,Indonesia
+325,12,7,2014-01-01,2014-01-15,2014-01-11,3,65.59,Zoonder,5183 Myrtle Road,Korba,,,Tunisia
+326,72,9,2013-12-07,2013-12-21,2013-12-17,3,24.13,Vinte,1 Barby Street,Nguru,,,Nigeria
+327,61,1,2013-12-11,2013-12-25,2013-12-21,2,23.12,Fanoodle,617 Tennessee Trail,Sherbrooke,,,Canada
+328,87,4,2013-11-29,2013-12-13,2013-12-09,2,69.08,Layo,9 Mariners Cove Trail,Shuangtang,,,China
+329,1,6,2014-09-11,2014-09-25,2014-09-21,3,23.35,Topicblab,85 Riverside Road,Namballe,,,Peru
+330,60,5,2014-11-18,2014-12-02,2014-11-28,1,80.75,Gigashots,8987 Sage Lane,Facatativá,,,Colombia
+331,96,8,2014-11-06,2014-11-20,2014-11-16,3,95.2,Trupe,16066 Merrick Alley,Little Rock,Arkansas,72204,United States
+332,2,8,2013-12-27,2014-01-10,2014-01-06,1,40.1,Flipstorm,261 7th Hill,Baisha,,,China
+333,69,6,2014-02-06,2014-02-20,2014-02-16,1,62.07,Zoombox,30 Esch Hill,East Migpulao,,,Philippines
+334,8,1,2014-08-01,2014-08-15,2014-08-11,1,38.58,Skimia,10 Basil Center,Semuda,,,Indonesia
+335,63,9,2014-04-05,2014-04-19,2014-04-15,3,28.88,Oba,0 Coolidge Junction,Weiqi,,,China
+336,14,7,2014-08-28,2014-09-11,2014-09-07,2,96.76,Pixope,95361 Ridgeview Center,He’an,,,China
+337,15,6,2014-04-15,2014-04-29,2014-04-25,2,94.17,Kwinu,376 Vera Trail,Brooklyn,New York,11254,United States
+338,34,9,2014-06-12,2014-06-26,2014-06-22,1,25.64,Linklinks,13 Heath Alley,Loja,,,Ecuador
+339,77,7,2014-06-18,2014-07-02,2014-06-28,2,7.64,Lazz,63 Bashford Pass,Markópoulo Oropoú,,,Greece
+340,45,6,2014-06-02,2014-06-16,2014-06-12,3,92.32,Rooxo,3 Hauk Drive,Santa Lucía,,,Honduras
+341,90,3,2014-05-13,2014-05-27,2014-05-23,1,60.68,Skyndu,83564 Kenwood Point,Nova Pazova,,,Serbia
+342,21,3,2014-06-28,2014-07-12,2014-07-08,1,43.29,Tagchat,515 Farmco Center,Tramandaí,,,Brazil
+343,98,7,2014-07-02,2014-07-16,2014-07-12,2,21.73,Brainlounge,60660 Utah Lane,Qiujima,,,China
+344,85,10,2014-07-28,2014-08-11,2014-08-07,2,91.39,Brightdog,07 Summerview Junction,Jingchuan,,,China
+345,56,2,2014-05-09,2014-05-23,2014-05-19,1,95.78,Linklinks,25130 Buell Trail,Stockholm,Stockholm,117 68,Sweden
+346,65,4,2013-11-24,2013-12-08,2013-12-04,3,27.44,Devify,4 Thackeray Court,Żyrardów,,,Poland
+347,72,7,2014-07-29,2014-08-12,2014-08-08,3,48.74,Jabberstorm,2 Iowa Drive,Beaumont,,,Ireland
+348,13,4,2014-07-13,2014-07-27,2014-07-23,3,17.84,Wikivu,7212 Surrey Center,Tiechang,,,China
+349,67,4,2013-12-16,2013-12-30,2013-12-26,3,6.75,Vimbo,01 Kinsman Street,Sendangagung,,,Indonesia
+350,69,8,2014-11-01,2014-11-15,2014-11-11,3,90.95,Mydeo,90 Sachs Way,Lugar Novo,Braga,4820-013,Portugal
+351,47,5,2014-09-27,2014-10-11,2014-10-07,3,67.6,Lajo,29222 Banding Way,Urachiche,,,Venezuela
+352,54,2,2013-11-24,2013-12-08,2013-12-04,3,60.92,Avavee,18835 Norway Maple Park,Divnoye,,,Russia
+353,79,9,2014-11-17,2014-12-01,2014-11-27,2,70.07,Zoomlounge,34847 Melrose Circle,Anuling,,,Philippines
+354,24,7,2014-03-12,2014-03-26,2014-03-22,3,63.86,Ailane,81356 Dahle Terrace,Velyka Mykhaylivka,,,Ukraine
+355,58,3,2014-04-26,2014-05-10,2014-05-06,3,70.1,Flipbug,5 Forest Drive,Karasgede,,,Indonesia
+356,49,3,2014-08-18,2014-09-01,2014-08-28,1,59.34,JumpXS,2 Union Hill,Triolet,,,Mauritius
+357,12,10,2014-06-30,2014-07-14,2014-07-10,3,58.81,Tekfly,168 Mayer Way,Armash,,,Armenia
+358,80,5,2014-10-31,2014-11-14,2014-11-10,3,42.77,Twitterbeat,39526 Drewry Alley,Pende,,,Indonesia
+359,54,2,2014-11-10,2014-11-24,2014-11-20,3,35.05,Brightbean,0974 Manitowish Circle,Lhakangtang,,,China
+360,42,4,2014-03-11,2014-03-25,2014-03-21,3,37.93,Aimbu,9 Boyd Pass,Bohicon,,,Benin
+361,34,2,2014-03-02,2014-03-16,2014-03-12,1,28.82,Digitube,77 Susan Crossing,Huangyang,,,China
+362,89,3,2014-05-19,2014-06-02,2014-05-29,3,33.14,Linkbridge,3 Comanche Street,Seixo Alvo,Porto,4415-739,Portugal
+363,20,9,2014-10-28,2014-11-11,2014-11-07,1,89.4,Topiczoom,2521 Kings Road,Gibbons,,,Canada
+364,38,3,2014-01-22,2014-02-05,2014-02-01,3,71.3,Aivee,7397 Stoughton Point,Seogeom-ri,,,South Korea
+365,93,3,2014-03-10,2014-03-24,2014-03-20,2,66.39,Skinte,953 Pearson Parkway,Gresik,,,Indonesia
+366,88,7,2014-10-25,2014-11-08,2014-11-04,2,17.06,Myworks,5368 La Follette Drive,Aubagne,Provence-Alpes-Côte d'Azur,13674 CEDEX,France
+367,42,4,2013-12-17,2013-12-31,2013-12-27,1,41.24,Yotz,1334 Green Ridge Center,Mafra,,,Brazil
+368,25,9,2014-10-31,2014-11-14,2014-11-10,3,66.42,Skyndu,57 Parkside Crossing,Xinjiezi,,,China
+369,43,8,2014-10-24,2014-11-07,2014-11-03,1,1.21,Mydeo,87510 Red Cloud Center,Ash Shawātī,,,Yemen
+370,29,7,2014-06-29,2014-07-13,2014-07-09,1,65.76,Yakijo,926 Bashford Park,Paris La Défense,Île-de-France,92980 CEDEX,France
+371,40,4,2014-05-28,2014-06-11,2014-06-07,2,19.71,Shuffletag,79528 Kinsman Place,Nagano-shi,,,Japan
+372,20,4,2014-06-25,2014-07-09,2014-07-05,3,44.84,Jaloo,513 Hooker Plaza,Aanislag,,,Philippines
+373,83,1,2014-04-02,2014-04-16,2014-04-12,3,48.9,Yamia,7608 Dovetail Avenue,Qianjin,,,China
+374,49,5,2014-01-21,2014-02-04,2014-01-31,1,22.14,Innojam,231 Linden Pass,Xing’an,,,China
+375,93,8,2014-11-18,2014-12-02,2014-11-28,2,25.18,Rooxo,3 Ronald Regan Plaza,Tamanan,,,Indonesia
+376,58,10,2014-04-28,2014-05-12,2014-05-08,2,77.01,Kanoodle,70545 Nova Terrace,Melaka,Melaka,75648,Malaysia
+377,67,3,2014-06-15,2014-06-29,2014-06-25,3,28.23,Photobug,0 Ryan Park,Limoges,Limousin,87930 CEDEX 9,France
+378,98,10,2014-08-29,2014-09-12,2014-09-08,1,83.81,Linkbridge,2420 Brown Pass,Lewoduli,,,Indonesia
+379,69,10,2014-09-06,2014-09-20,2014-09-16,3,68.39,Bluejam,73 Johnson Plaza,Khenifra,,,Morocco
+380,50,2,2014-05-07,2014-05-21,2014-05-17,2,61.24,Zoomzone,596 Northview Point,Dadap,,,Indonesia
+381,33,10,2014-05-30,2014-06-13,2014-06-09,2,28.12,Skibox,201 Carpenter Point,Huji,,,China
+382,10,3,2014-09-09,2014-09-23,2014-09-19,2,5.62,Zooxo,299 South Way,Duas Igrejas,Bragança,5210-046,Portugal
+383,65,8,2014-09-29,2014-10-13,2014-10-09,1,18.53,Thoughtbeat,144 Spaight Circle,Lyon,Rhône-Alpes,69395 CEDEX 03,France
+384,41,7,2013-12-31,2014-01-14,2014-01-10,1,86.23,Plajo,240 Bultman Court,Novoselë,,,Albania
+385,56,8,2014-09-12,2014-09-26,2014-09-22,1,38.2,Devbug,92 Swallow Drive,Maripipi,,,Philippines
+386,95,2,2014-11-23,2014-12-07,2014-12-03,3,77.13,Babbleset,94 Westend Circle,General Alvear,,,Argentina
+387,22,2,2014-04-25,2014-05-09,2014-05-05,2,81.24,Wordpedia,32100 Huxley Place,Xiping,,,China
+388,78,1,2014-10-19,2014-11-02,2014-10-29,1,1.19,Flashset,9440 Oakridge Point,Hägersten,Stockholm,126 36,Sweden
+389,5,6,2014-05-17,2014-05-31,2014-05-27,1,5.46,Plambee,562 Dapin Plaza,Herong,,,China
+390,96,6,2014-07-08,2014-07-22,2014-07-18,1,25.42,Roodel,93 Pond Road,Roissy Charles-de-Gaulle,Île-de-France,95974 CEDEX 2,France
+391,92,1,2013-12-13,2013-12-27,2013-12-23,3,83.99,Linkbuzz,35921 Mitchell Park,Ad Dann,,,Yemen
+392,45,6,2014-06-30,2014-07-14,2014-07-10,3,24.07,Skalith,052 Mifflin Parkway,Dawwār Tīnjah,,,Tunisia
+393,7,3,2014-10-29,2014-11-12,2014-11-08,2,1.75,Innojam,882 Stuart Alley,Skhodnitsa,,,Ukraine
+394,17,5,2014-03-16,2014-03-30,2014-03-26,3,59.2,Wordpedia,12 Golden Leaf Lane,Santa Ana,,,Guatemala
+395,54,3,2014-03-27,2014-04-10,2014-04-06,1,30.27,Dynava,5398 Union Hill,Hongcheng,,,China
+396,81,2,2014-03-07,2014-03-21,2014-03-17,3,52,Quatz,81977 Ilene Crossing,Périgueux,Aquitaine,24053 CEDEX,France
+397,48,3,2013-12-03,2013-12-17,2013-12-13,2,50.15,Mybuzz,38 Lawn Drive,Mariestad,Västra Götaland,542 73,Sweden
+398,19,4,2014-08-14,2014-08-28,2014-08-24,3,30.83,Omba,666 Del Mar Place,Paghmān,,,Afghanistan
+399,7,6,2014-08-06,2014-08-20,2014-08-16,1,25.56,Avamm,57548 American Ash Terrace,Anxi,,,China
+400,88,9,2014-05-06,2014-05-20,2014-05-16,3,46.85,Bluejam,45279 Memorial Junction,Zamostochcha,,,Belarus
+401,4,10,2014-11-13,2014-11-27,2014-11-23,2,53.82,JumpXS,38577 Lakewood Crossing,Xam Nua,,,Laos
+402,74,7,2014-04-29,2014-05-13,2014-05-09,1,11.96,Mydeo,7282 Katie Road,Kavalerovo,,,Russia
+403,56,6,2014-03-04,2014-03-18,2014-03-14,2,44.46,Tanoodle,062 Eagan Circle,Cotton Ground,,,Saint Kitts and Nevis
+404,87,5,2014-04-04,2014-04-18,2014-04-14,3,97.77,Oyoba,0 Mccormick Parkway,Caldas,,,Colombia
+405,29,8,2014-07-11,2014-07-25,2014-07-21,2,15.22,Brainlounge,46560 Meadow Valley Point,Yevpatoriya,,,Ukraine
+406,56,8,2014-01-26,2014-02-09,2014-02-05,1,23.99,Zoonder,00854 New Castle Alley,Ourense,Galicia,32005,Spain
+407,69,10,2014-08-12,2014-08-26,2014-08-22,1,94.25,Geba,83099 Southridge Crossing,Berehomet,,,Ukraine
+408,93,8,2014-01-19,2014-02-02,2014-01-29,1,24.36,Dabfeed,19836 Twin Pines Center,Pasrukrajan Satu,,,Indonesia
+409,69,1,2013-12-22,2014-01-05,2014-01-01,3,22.98,Divanoodle,66924 Graceland Avenue,Xiehu,,,China
+410,91,9,2014-09-08,2014-09-22,2014-09-18,3,15.41,Riffpedia,109 Anhalt Crossing,Shumerlya,,,Russia
+411,75,5,2014-08-12,2014-08-26,2014-08-22,1,43.26,Miboo,44148 Hooker Crossing,Salinas,,,Brazil
+412,41,6,2014-01-29,2014-02-12,2014-02-08,2,83.04,Eare,504 Sutherland Junction,Pashkovskiy,,,Russia
+413,82,9,2014-06-21,2014-07-05,2014-07-01,3,10.02,Oyope,98758 Vahlen Court,Abuxarda,Lisboa,2755-013,Portugal
+414,10,4,2014-10-14,2014-10-28,2014-10-24,3,14.08,Skilith,4 Raven Circle,Pontinha,Lisboa,1675-007,Portugal
+415,73,10,2014-04-15,2014-04-29,2014-04-25,1,42.31,Yozio,5143 Ilene Point,Tournavista,,,Peru
+416,58,10,2014-11-02,2014-11-16,2014-11-12,3,52.65,Vidoo,73017 Sundown Terrace,Rucava,,,Latvia
+417,90,1,2014-06-26,2014-07-10,2014-07-06,1,35.49,Skajo,5 Graedel Center,Barra,,,Brazil
+418,23,8,2014-01-03,2014-01-17,2014-01-13,3,40.59,Wikibox,7163 Jana Road,Sucre,,,Bolivia
+419,86,9,2014-09-25,2014-10-09,2014-10-05,3,72.11,Yodo,131 Gerald Crossing,Shiraoi,,,Japan
+420,97,7,2014-01-31,2014-02-14,2014-02-10,3,40.51,Ntags,70 Delladonna Trail,Радовиш,,,Macedonia
+421,53,4,2014-03-04,2014-03-18,2014-03-14,2,47.85,Skinix,47046 Pearson Lane,Gradačac,,,Bosnia and Herzegovina
+422,5,1,2014-02-22,2014-03-08,2014-03-04,2,1.09,Mymm,23462 Bluejay Alley,Ankou,,,China
+423,3,8,2013-12-03,2013-12-17,2013-12-13,2,75.58,Tagchat,67 Donald Circle,Pukou,,,China
+424,75,10,2014-07-01,2014-07-15,2014-07-11,1,40.91,Mita,2 Dennis Alley,Cordeirópolis,,,Brazil
+425,43,7,2014-09-07,2014-09-21,2014-09-17,2,26.81,Fiveclub,1 Golf Parkway,Ōyama,,,Japan
+426,45,7,2014-04-04,2014-04-18,2014-04-14,3,32.85,Youopia,0499 Reindahl Place,Uppsala,Uppsala,751 82,Sweden
+427,44,7,2014-05-03,2014-05-17,2014-05-13,2,46.82,Yata,29328 Cascade Court,Madrid,,,Colombia
+428,78,10,2014-01-29,2014-02-12,2014-02-08,1,40.78,Topiclounge,23 Marcy Crossing,Bronnitsy,,,Russia
+429,28,4,2013-12-03,2013-12-17,2013-12-13,1,63.59,Meezzy,9512 Valley Edge Park,Nizhniye Vyazovyye,,,Russia
+430,4,2,2014-05-15,2014-05-29,2014-05-25,1,13.8,Rhycero,71067 Banding Avenue,Palapye,,,Botswana
+431,30,4,2014-10-20,2014-11-03,2014-10-30,3,16.89,Innotype,79787 Quincy Terrace,Mandikbatu,,,Indonesia
+432,20,8,2014-10-04,2014-10-18,2014-10-14,1,19.54,Quinu,65296 Packers Center,Berëza,,,Russia
+433,14,9,2014-04-05,2014-04-19,2014-04-15,1,59.97,Jetpulse,67905 Merrick Center,Puerto Madryn,,,Argentina
+434,97,10,2014-03-14,2014-03-28,2014-03-24,1,79.87,Rhynyx,7 Rieder Avenue,Maredakalada,,,Indonesia
+435,13,2,2014-10-04,2014-10-18,2014-10-14,2,53.84,Realmix,63832 Vernon Terrace,Jinze,,,China
+436,51,4,2014-05-15,2014-05-29,2014-05-25,2,45.31,Abata,45022 Upham Hill,Tanjungagung,,,Indonesia
+437,12,5,2014-09-23,2014-10-07,2014-10-03,1,85.1,Tagfeed,94 Vermont Lane,Rongcheng,,,China
+438,51,1,2014-07-03,2014-07-17,2014-07-13,2,90.16,Jayo,51 Harbort Place,Kadusirung Hilir,,,Indonesia
+439,51,7,2014-02-13,2014-02-27,2014-02-23,3,11.49,Brainverse,7 Donald Trail,Żarki-Letnisko,,,Poland
+440,15,1,2014-02-19,2014-03-05,2014-03-01,3,94.98,Rooxo,17 Transport Place,Al Maţarīyah,,,Egypt
+441,88,7,2014-05-21,2014-06-04,2014-05-31,1,86.47,Latz,578 Mcbride Plaza,Wangmang,,,China
+442,95,2,2014-10-22,2014-11-05,2014-11-01,1,57.21,Babbleopia,82219 Bultman Trail,Itaguaí,,,Brazil
+443,68,9,2013-12-05,2013-12-19,2013-12-15,3,33.49,Zooxo,9281 Trailsway Trail,Stockholm,Stockholm,103 88,Sweden
+444,18,2,2013-12-02,2013-12-16,2013-12-12,2,1.91,Youspan,159 Eggendart Plaza,Kauswagan,,,Philippines
+445,27,3,2014-10-24,2014-11-07,2014-11-03,3,19.5,Quaxo,5 5th Road,Bedadung Kulon,,,Indonesia
+446,92,5,2014-01-02,2014-01-16,2014-01-12,1,42.38,Realpoint,5 Brickson Park Center,Carrazeda de Ansiães,Bragança,5140-058,Portugal
+447,83,6,2014-03-19,2014-04-02,2014-03-29,2,1.59,Oyoyo,24 Carpenter Point,Jelah,,,Bosnia and Herzegovina
+448,64,2,2013-11-27,2013-12-11,2013-12-07,2,81.01,Fatz,20224 Fulton Center,Gus’-Zheleznyy,,,Russia
+449,58,8,2014-08-06,2014-08-20,2014-08-16,2,78.5,Voonte,25377 Boyd Avenue,Kattaqo’rg’on,,,Uzbekistan
+450,28,5,2014-11-23,2014-12-07,2014-12-03,1,85.33,Meezzy,6155 Delaware Road,Cavinti,,,Philippines
+451,64,7,2014-10-30,2014-11-13,2014-11-09,3,17.52,Yabox,0 Shoshone Circle,Kumanis,,,Indonesia
+452,54,8,2014-02-02,2014-02-16,2014-02-12,2,72.32,Muxo,218 Towne Point,Mouzáki,,,Greece
+453,44,4,2014-11-04,2014-11-18,2014-11-14,2,59.32,Avamba,657 Forster Court,Seydi,,,Turkmenistan
+454,50,1,2014-05-27,2014-06-10,2014-06-06,2,1.25,Vimbo,2139 International Avenue,Aegela,,,Indonesia
+455,46,3,2014-03-13,2014-03-27,2014-03-23,3,7.32,Jazzy,82095 Petterle Parkway,Knivsta,Uppsala,741 24,Sweden
+456,53,1,2014-11-13,2014-11-27,2014-11-23,1,43.16,Thoughtblab,533 Drewry Pass,Panzhou,,,China
+457,40,2,2014-06-11,2014-06-25,2014-06-21,2,37.05,Thoughtstorm,081 Bunting Road,Żabbar,,,Malta
+458,25,7,2014-03-14,2014-03-28,2014-03-24,2,31.79,Topicshots,92 Surrey Trail,Chaoshui,,,China
+459,35,6,2014-07-02,2014-07-16,2014-07-12,2,69.85,Jabbersphere,15 Larry Lane,Ḩammām Wāşil,,,Syria
+460,33,10,2014-02-07,2014-02-21,2014-02-17,1,18.53,Wordify,0 Quincy Crossing,Tagawa,,,Japan
+461,79,4,2014-05-11,2014-05-25,2014-05-21,3,1.16,Jayo,6917 Trailsway Parkway,Usogorsk,,,Russia
+462,61,5,2014-04-21,2014-05-05,2014-05-01,2,11.42,Thoughtbridge,498 Sycamore Alley,Monte de Trigo,Évora,7220-205,Portugal
+463,5,7,2014-08-10,2014-08-24,2014-08-20,2,62.51,Bluezoom,9970 Independence Point,Takahama,,,Japan
+464,64,9,2014-03-11,2014-03-25,2014-03-21,1,5.9,Skaboo,1 Lighthouse Bay Trail,Wang Saphung,,,Thailand
+465,32,5,2014-06-30,2014-07-14,2014-07-10,3,33.4,Fadeo,85130 Dennis Trail,Huaqiao,,,China
+466,87,6,2014-08-14,2014-08-28,2014-08-24,2,41.64,Realfire,263 Superior Center,Qalqaman,,,Kazakhstan
+467,72,9,2014-07-08,2014-07-22,2014-07-18,3,42.52,Shuffledrive,03 Havey Place,Boronów,,,Poland
+468,29,10,2014-11-09,2014-11-23,2014-11-19,1,23.18,Yacero,399 Golf Course Place,Le Mans,Pays de la Loire,72004 CEDEX 1,France
+469,89,2,2014-08-31,2014-09-14,2014-09-10,2,20.63,Plambee,579 Hintze Drive,Dushk,,,Albania
+470,35,5,2014-06-02,2014-06-16,2014-06-12,1,25.74,Dazzlesphere,633 Fremont Hill,Albufeira,Faro,8200-005,Portugal
+471,27,6,2014-10-08,2014-10-22,2014-10-18,2,33.36,Kazio,128 American Ash Park,Santo Tomé,,,Argentina
+472,54,7,2013-12-25,2014-01-08,2014-01-04,1,84.42,Skipfire,2 Dakota Place,Brusy,,,Poland
+473,87,5,2014-04-13,2014-04-27,2014-04-23,2,80.98,Rhybox,05740 Beilfuss Plaza,Ostrožac,,,Bosnia and Herzegovina
+474,53,9,2014-01-14,2014-01-28,2014-01-24,2,93.7,Ailane,74 Northfield Park,Paniówki,,,Poland
+475,64,5,2014-05-04,2014-05-18,2014-05-14,3,88.2,Voonyx,688 Center Lane,Antsohihy,,,Madagascar
+476,60,7,2014-05-20,2014-06-03,2014-05-30,2,95.7,Skyvu,55206 Mifflin Hill,Parrsboro,,,Canada
+477,38,2,2014-01-10,2014-01-24,2014-01-20,1,29.78,Mynte,1 Debra Hill,Sydney,New South Wales,1140,Australia
+478,95,6,2014-05-16,2014-05-30,2014-05-26,2,35.16,Kayveo,0 Sommers Alley,Lodwar,,,Kenya
+479,13,10,2013-12-15,2013-12-29,2013-12-25,2,50.95,Yacero,3 Maple Way,Caijiazha,,,China
+480,55,8,2014-02-25,2014-03-11,2014-03-07,1,64.82,Quaxo,113 Granby Trail,Mỹ Thọ,,,Vietnam
+481,31,6,2014-07-11,2014-07-25,2014-07-21,3,37.35,Myworks,76 Straubel Avenue,Zebrzydowice,,,Poland
+482,41,6,2014-07-21,2014-08-04,2014-07-31,1,97.27,Flashdog,74 Lawn Circle,Sukawening,,,Indonesia
+483,92,1,2014-05-25,2014-06-08,2014-06-04,2,41.04,Gabtype,78542 Paget Avenue,Ob’,,,Russia
+484,65,10,2014-06-06,2014-06-20,2014-06-16,2,57.6,Cogibox,72339 Twin Pines Pass,Roma,Lazio,00141,Italy
+485,78,10,2014-07-24,2014-08-07,2014-08-03,2,76.89,Leexo,87271 Summit Crossing,Chengdong,,,China
+486,95,4,2014-02-16,2014-03-02,2014-02-26,1,38.34,Brightdog,34836 Jenifer Court,Pakemitan Dua,,,Indonesia
+487,84,4,2014-11-03,2014-11-17,2014-11-13,1,79.2,Yakitri,1 Columbus Parkway,Shikeng,,,China
+488,26,9,2014-09-15,2014-09-29,2014-09-25,3,83.86,Quatz,13848 Village Green Crossing,Jiajiaying,,,China
+489,33,7,2014-03-27,2014-04-10,2014-04-06,1,41.35,Jabbercube,4118 Menomonie Drive,Daxi,,,China
+490,13,2,2014-01-12,2014-01-26,2014-01-22,1,82.21,Brainbox,1751 Macpherson Drive,Dietaisi,,,China
+491,93,3,2014-07-30,2014-08-13,2014-08-09,3,81.28,Feedfish,6588 Glendale Lane,Caja,,,Peru
+492,53,2,2014-06-12,2014-06-26,2014-06-22,3,64.02,Quatz,9 Dawn Alley,Kotuń,,,Poland
+493,68,6,2014-11-12,2014-11-26,2014-11-22,3,73.79,Zoombox,7 Heath Circle,Wugui,,,China
+494,42,1,2013-12-02,2013-12-16,2013-12-12,1,94.23,Blogtag,392 Melody Point,Huaquillas,,,Ecuador
+495,99,6,2014-02-12,2014-02-26,2014-02-22,1,30.12,Twinte,62539 Gulseth Park,Tamanan,,,Indonesia
+496,75,9,2014-10-04,2014-10-18,2014-10-14,1,84.41,Quinu,00 Spenser Place,Sobo,,,Indonesia
+497,98,6,2014-10-23,2014-11-06,2014-11-02,2,75.4,Edgewire,3 Doe Crossing Point,Zhongshan,,,China
+498,90,8,2014-06-08,2014-06-22,2014-06-18,1,4.08,Wordify,51608 Pankratz Avenue,Tongbang,,,Indonesia
+499,76,8,2014-08-14,2014-08-28,2014-08-24,1,71.84,Devcast,3 Morning Circle,Karantaba,,,Gambia
+500,50,2,2014-11-22,2014-12-06,2014-12-02,2,88.47,Edgetag,1 Dunning Way,Zhlobin,,,Belarus
+501,47,8,2014-09-11,2014-09-25,2014-09-21,2,43.71,Cogilith,3775 Nobel Hill,Pirapo,,,Paraguay
+502,39,4,2014-05-22,2014-06-05,2014-06-01,2,47.19,Shufflester,9 Morrow Drive,Viamão,,,Brazil
+503,18,5,2014-04-09,2014-04-23,2014-04-19,3,1.47,Katz,9911 Mandrake Hill,La Dorada,,,Colombia
+504,17,2,2013-12-10,2013-12-24,2013-12-20,2,64.42,Dabfeed,5632 Crest Line Drive,Zumiao,,,China
+505,54,7,2014-02-18,2014-03-04,2014-02-28,3,32.45,Gigashots,92405 Paget Junction,Cornillon,,,Haiti
+506,36,1,2014-05-07,2014-05-21,2014-05-17,3,64.1,Npath,0 Spaight Junction,Ardabīl,,,Iran
+507,52,4,2014-05-22,2014-06-05,2014-06-01,1,98.84,Viva,6 Florence Trail,Batroûn,,,Lebanon
+508,27,3,2014-08-17,2014-08-31,2014-08-27,1,33.18,Agivu,67 American Ash Drive,Yacimiento Río Turbio,,,Argentina
+509,48,4,2014-03-10,2014-03-24,2014-03-20,2,96.18,Kanoodle,6610 Anthes Plaza,Pakisaji,,,Indonesia
+510,74,5,2014-01-04,2014-01-18,2014-01-14,1,88.89,Oloo,05148 Sunnyside Road,Tsarychanka,,,Ukraine
+511,62,10,2014-06-03,2014-06-17,2014-06-13,1,37.11,Fanoodle,72772 Dixon Lane,Louisville,Kentucky,40266,United States
+512,89,7,2014-01-05,2014-01-19,2014-01-15,3,97.73,Voonder,7492 Cascade Terrace,Nedakonice,,,Czech Republic
+513,71,6,2014-02-06,2014-02-20,2014-02-16,1,70.76,Shufflebeat,77542 Scott Street,Gvozd,,,Croatia
+514,5,4,2014-01-07,2014-01-21,2014-01-17,3,22.68,Ntag,802 Garrison Road,Reszel,,,Poland
+515,80,5,2014-08-07,2014-08-21,2014-08-17,1,57.88,Eire,43 Bashford Avenue,Padangtepung,,,Indonesia
+516,4,5,2014-08-25,2014-09-08,2014-09-04,3,29.28,Thoughtworks,79 Dorton Way,Macachín,,,Argentina
+517,65,7,2014-05-09,2014-05-23,2014-05-19,3,46.91,Lajo,09361 Golden Leaf Place,Símantra,,,Greece
+518,88,3,2014-08-24,2014-09-07,2014-09-03,2,44.83,Rhycero,8 Porter Plaza,Oulad Frej,,,Morocco
+519,21,10,2014-02-23,2014-03-09,2014-03-05,1,30.87,Topicblab,946 Monica Place,Dangbigih,,,Indonesia
+520,72,6,2014-01-19,2014-02-02,2014-01-29,2,10.7,Jabbersphere,9010 Dayton Avenue,Birigui,,,Brazil
+521,82,3,2014-03-25,2014-04-08,2014-04-04,3,80.28,Topicstorm,452 Eastwood Drive,Quintão,Porto,4745-328,Portugal
+522,54,6,2014-08-29,2014-09-12,2014-09-08,3,7.31,Kimia,9 Sullivan Trail,Bayanbulag,,,Mongolia
+523,95,10,2014-08-24,2014-09-07,2014-09-03,3,2.89,Kayveo,093 Washington Trail,Sabang,,,Philippines
+524,11,1,2014-09-22,2014-10-06,2014-10-02,3,80.81,Wordify,6 Forest Run Lane,Tangping,,,China
+525,50,8,2014-05-11,2014-05-25,2014-05-21,3,41.25,Plajo,6 Fieldstone Hill,Goge,,,Indonesia
+526,58,7,2014-02-15,2014-03-01,2014-02-25,2,93.73,Zava,62854 Brentwood Drive,Rízoma,,,Greece
+527,49,8,2013-11-30,2013-12-14,2013-12-10,2,89.96,Photojam,9082 Sutherland Road,Maykopskoye,,,Russia
+528,26,1,2014-09-04,2014-09-18,2014-09-14,1,17.97,Browsecat,04 Columbus Crossing,Houston,Texas,77085,United States
+529,43,7,2014-01-21,2014-02-04,2014-01-31,2,38.1,Mynte,0 Caliangt Park,Liancheng,,,China
+530,11,9,2014-05-18,2014-06-01,2014-05-28,3,34.21,Zoozzy,7502 Welch Trail,Zhangpu,,,China
+531,95,4,2013-12-19,2014-01-02,2013-12-29,2,38.35,Jamia,80 Texas Road,Beaconsfield,,,Canada
+532,43,4,2014-02-06,2014-02-20,2014-02-16,1,26.38,Oodoo,98 High Crossing Street,Divjakë,,,Albania
+533,18,3,2014-03-23,2014-04-06,2014-04-02,3,82.85,Avamba,68 Tennyson Point,Yufa,,,China
+534,60,3,2014-04-08,2014-04-22,2014-04-18,1,51.84,Skimia,519 Memorial Drive,Rengang,,,China
+535,78,5,2013-12-24,2014-01-07,2014-01-03,2,83.44,Voolia,34910 Huxley Terrace,Kuytun,,,Russia
+536,49,9,2014-06-05,2014-06-19,2014-06-15,3,91.7,Eamia,29355 Sutteridge Alley,Mnelalete,,,Indonesia
+537,5,3,2014-10-06,2014-10-20,2014-10-16,3,93.9,Yodo,65 Ohio Lane,Kayl,,,Luxembourg
+538,10,4,2013-12-19,2014-01-02,2013-12-29,3,3.93,Quatz,5380 Stuart Center,Babagan,,,Indonesia
+539,12,7,2014-04-30,2014-05-14,2014-05-10,3,22.45,Voolith,6910 Carberry Place,Montaigu,Pays de la Loire,85614 CEDEX,France
+540,22,1,2014-01-05,2014-01-19,2014-01-15,1,75.86,Twitterbeat,2208 Annamark Parkway,Dongfeng,,,China
+541,84,7,2014-10-05,2014-10-19,2014-10-15,1,54.46,Jaxspan,7 4th Place,Goiânia,,,Brazil
+542,60,7,2014-04-24,2014-05-08,2014-05-04,2,79.63,Ooba,7 Coolidge Circle,Oliveira,Viseu,3660-622,Portugal
+543,11,10,2014-04-30,2014-05-14,2014-05-10,1,68.4,Mycat,12 Victoria Point,Máncora,,,Peru
+544,5,2,2014-09-23,2014-10-07,2014-10-03,2,13.72,Zoombeat,07344 Mifflin Avenue,Oguta,,,Nigeria
+545,48,9,2014-10-11,2014-10-25,2014-10-21,3,1.24,Brainbox,34 Aberg Parkway,Kemisē,,,Ethiopia
+546,15,4,2014-07-14,2014-07-28,2014-07-24,3,14.75,LiveZ,86159 Stuart Plaza,El Almendro,,,Nicaragua
+547,45,10,2014-09-06,2014-09-20,2014-09-16,1,58.03,Tekfly,53 Reinke Street,Lae,,,Marshall Islands
+548,28,1,2014-09-28,2014-10-12,2014-10-08,3,80.71,Demimbu,25 Armistice Junction,Sedatigede,,,Indonesia
+549,82,3,2014-06-14,2014-06-28,2014-06-24,1,14.94,Photobean,4 Larry Center,Norcasia,,,Colombia
+550,90,6,2014-09-19,2014-10-03,2014-09-29,3,73.36,Flipbug,95 Macpherson Alley,Floda,Västra Götaland,448 92,Sweden
+551,25,7,2014-10-23,2014-11-06,2014-11-02,3,90.73,Tagtune,2 Duke Parkway,Syrostan,,,Russia
+552,28,4,2014-01-18,2014-02-01,2014-01-28,2,19.92,Jatri,8 Tony Circle,Krasae Sin,,,Thailand
+553,64,1,2014-05-05,2014-05-19,2014-05-15,2,57.96,Kaymbo,70843 Hansons Court,Bontang,,,Indonesia
+554,21,6,2014-02-27,2014-03-13,2014-03-09,1,29.76,Centizu,5 Northview Pass,Sanyantang,,,China
+555,21,1,2014-02-20,2014-03-06,2014-03-02,2,55.53,Talane,67 Gale Place,Dongji,,,China
+556,60,1,2014-05-28,2014-06-11,2014-06-07,3,10.27,Thoughtbridge,5 Barby Place,Shido,,,Japan
+557,70,1,2014-08-11,2014-08-25,2014-08-21,2,93.83,Skyba,25 Banding Avenue,Sangalhos,Aveiro,3780-115,Portugal
+558,100,2,2014-02-09,2014-02-23,2014-02-19,3,2.68,Yata,7390 Dawn Alley,Wañgan,,,Philippines
+559,28,7,2014-02-28,2014-03-14,2014-03-10,3,51.3,Buzzshare,831 Warbler Drive,Ed,Västra Götaland,668 92,Sweden
+560,15,3,2014-11-03,2014-11-17,2014-11-13,3,59.52,Gevee,214 Thompson Drive,San Isidro,Michoacan De Ocampo,60284,Mexico
+561,22,10,2014-08-07,2014-08-21,2014-08-17,3,18.1,Divavu,2939 Golf Crossing,Val-d'Or,,,Canada
+562,20,2,2014-04-20,2014-05-04,2014-04-30,1,41.53,Gabcube,73 Roth Center,San Juan Ermita,,,Guatemala
+563,89,3,2014-07-17,2014-07-31,2014-07-27,2,56.26,Trupe,2 Ohio Terrace,Sincelejo,,,Colombia
+564,15,1,2014-06-04,2014-06-18,2014-06-14,1,95.18,Twitterwire,6915 Arizona Junction,Aveleda,Porto,4575-393,Portugal
+565,67,6,2014-10-20,2014-11-03,2014-10-30,2,84.19,Kamba,51 Hoffman Park,Chiang Mai,,,Thailand
+566,28,8,2014-05-25,2014-06-08,2014-06-04,3,64.88,Miboo,89625 Old Gate Hill,Marelesu,,,China
+567,86,4,2014-09-29,2014-10-13,2014-10-09,2,10.06,Dablist,11 Cody Park,Sourotí,,,Greece
+568,44,10,2014-05-21,2014-06-04,2014-05-31,1,69.68,Devpulse,321 Oak Street,Panganiban,,,Philippines
+569,52,3,2014-04-17,2014-05-01,2014-04-27,1,71.95,Cogibox,6 Mendota Crossing,Tucheng,,,China
+570,87,4,2014-11-21,2014-12-05,2014-12-01,3,19.35,Jabberstorm,053 Everett Avenue,San Antonio Oeste,,,Argentina
+571,63,5,2014-10-11,2014-10-25,2014-10-21,3,86.56,Gigaclub,7765 Moulton Center,Comodoro Rivadavia,,,Argentina
+572,81,3,2014-05-05,2014-05-19,2014-05-15,3,29.7,Skinix,2320 Thompson Alley,Bangad,,,Philippines
+573,61,1,2014-03-12,2014-03-26,2014-03-22,2,40.16,Flashpoint,02 Blackbird Terrace,Basel,Kanton Basel-Stadt,4010,Switzerland
+574,4,10,2014-04-08,2014-04-22,2014-04-18,1,48.77,Topicshots,9793 Kropf Alley,Dongping,,,China
+575,80,7,2014-08-03,2014-08-17,2014-08-13,3,78.73,Gigabox,87597 Old Gate Way,Xinli,,,China
+576,30,1,2014-02-16,2014-03-02,2014-02-26,3,26.51,Brainsphere,27 Dunning Center,Valencia,,,Philippines
+577,3,5,2014-03-28,2014-04-11,2014-04-07,1,2.91,Shuffledrive,2 Merchant Pass,Saint-Avold,Lorraine,57509 CEDEX,France
+578,81,5,2014-04-06,2014-04-20,2014-04-16,2,25.83,Realcube,181 Buena Vista Place,Alakak,,,China
+579,18,5,2014-11-20,2014-12-04,2014-11-30,2,77.22,Babbleset,031 Warbler Point,Ya‘bad,,,Palestinian Territory
+580,1,4,2013-12-31,2014-01-14,2014-01-10,2,97.21,Yakijo,26554 Mesta Drive,Mērsrags,,,Latvia
+581,45,8,2014-08-11,2014-08-25,2014-08-21,2,74.12,Yoveo,5 Monterey Center,Okpoma,,,Nigeria
+582,4,6,2014-10-23,2014-11-06,2014-11-02,1,53.99,Thoughtstorm,24 Clove Circle,Kowale,,,Poland
+583,93,10,2014-11-01,2014-11-15,2014-11-11,2,76.95,Ooba,9727 Grayhawk Parkway,Ainaži,,,Latvia
+584,89,1,2014-08-27,2014-09-10,2014-09-06,3,92.55,Realmix,6 Magdeline Place,Varberg,Halland,432 93,Sweden
+585,43,3,2014-01-02,2014-01-16,2014-01-12,3,59.19,Buzzbean,17 Glendale Hill,Mandalgovi,,,Mongolia
+586,4,5,2014-08-26,2014-09-09,2014-09-05,2,8.03,Wordify,954 Badeau Street,Sakura,,,Japan
+587,20,8,2014-04-05,2014-04-19,2014-04-15,1,7.2,Photobean,47 Gale Court,Budaka,,,Uganda
+588,88,10,2014-08-06,2014-08-20,2014-08-16,2,85.77,Blognation,037 Waubesa Drive,Virje,,,Croatia
+589,80,3,2014-03-30,2014-04-13,2014-04-09,2,34.62,Voolia,29 Elka Hill,Káto Dhiminió,,,Greece
+590,62,9,2014-06-29,2014-07-13,2014-07-09,2,39.53,Kamba,6 Golf Circle,Uddiawan,,,Philippines
+591,13,4,2014-06-17,2014-07-01,2014-06-27,2,56.12,Yakidoo,183 Grasskamp Alley,Davila,,,Philippines
+592,51,9,2014-08-10,2014-08-24,2014-08-20,3,99.08,Photobean,55 Kipling Road,Prudentópolis,,,Brazil
+593,21,2,2013-11-27,2013-12-11,2013-12-07,1,83.66,Trilith,6 Bellgrove Park,Ekibastuz,,,Kazakhstan
+594,79,8,2014-06-16,2014-06-30,2014-06-26,2,40.57,Browseblab,58028 Roxbury Road,Vikhorevka,,,Russia
+595,3,3,2014-09-09,2014-09-23,2014-09-19,3,37.33,Realmix,676 Larry Road,Mangochi,,,Malawi
+596,87,1,2014-04-30,2014-05-14,2014-05-10,1,59.5,Jaxworks,1 Bowman Point,Grenoble,Rhône-Alpes,38051 CEDEX 9,France
+597,33,3,2014-09-08,2014-09-22,2014-09-18,2,27.46,Feednation,79 Melrose Lane,Leone,,,American Samoa
+598,66,2,2014-05-04,2014-05-18,2014-05-14,1,46.07,Demizz,92242 Summit Parkway,Samobor,,,Croatia
+599,73,10,2014-11-19,2014-12-03,2014-11-29,1,41.79,Oyonder,378 Daystar Trail,Pingshanhu,,,China
+600,53,7,2014-07-27,2014-08-10,2014-08-06,3,7.69,Kwimbee,87407 Lillian Road,Malanville,,,Benin
+601,70,7,2013-12-16,2013-12-30,2013-12-26,2,11.34,Tazzy,482 Eagan Plaza,Cayenne,Guyane,97341 CEDEX,French Guiana
+602,2,2,2014-10-04,2014-10-18,2014-10-14,1,77.65,Avamm,00 Anderson Parkway,Makui,,,Indonesia
+603,85,5,2014-05-07,2014-05-21,2014-05-17,1,76.03,Chatterbridge,55496 Drewry Street,Polovinnoye,,,Russia
+604,49,4,2014-09-19,2014-10-03,2014-09-29,3,51.15,Fliptune,3 Meadow Valley Plaza,Sanya,,,China
+605,71,10,2014-01-19,2014-02-02,2014-01-29,3,83.72,Jaxworks,11 Moland Court,Ōzu,,,Japan
+606,27,1,2014-06-24,2014-07-08,2014-07-04,1,95.49,JumpXS,40 American Ash Crossing,Voronezh,,,Russia
+607,31,5,2013-12-29,2014-01-12,2014-01-08,1,45.86,Blogspan,6038 Donald Lane,Gwandu,,,Nigeria
+608,74,9,2013-11-27,2013-12-11,2013-12-07,2,96.62,Wikido,899 Northwestern Point,Ko Pha Ngan,,,Thailand
+609,37,1,2014-08-06,2014-08-20,2014-08-16,2,97.41,Blogspan,02 Eastlawn Center,Żarki-Letnisko,,,Poland
+610,82,5,2014-08-07,2014-08-21,2014-08-17,1,87.49,Dazzlesphere,25764 Johnson Street,Santa Luzia,,,Brazil
+611,14,5,2014-11-01,2014-11-15,2014-11-11,3,23.05,InnoZ,81151 Glacier Hill Point,Fazenda de Santa Cruz,Ilha das Flores,9970-244,Portugal
+612,89,5,2014-03-22,2014-04-05,2014-04-01,1,63.33,Vinte,94 Red Cloud Road,Andahuaylillas,,,Peru
+613,90,5,2014-06-03,2014-06-17,2014-06-13,2,4.23,Riffwire,539 Helena Parkway,Lennec,,,Philippines
+614,9,7,2014-01-15,2014-01-29,2014-01-25,2,61.99,Livefish,14 Golf Point,Gaoqiaolou,,,China
+615,64,8,2014-05-23,2014-06-06,2014-06-02,1,35.63,Yotz,4716 Blackbird Way,Kandahār,,,Afghanistan
+616,9,7,2014-09-03,2014-09-17,2014-09-13,2,87.88,Talane,8113 Barnett Pass,Sanjinquan,,,China
+617,50,2,2014-01-12,2014-01-26,2014-01-22,2,29.6,Zoonoodle,803 Jenna Way,Poiares,Bragança,5180-344,Portugal
+618,6,4,2013-12-22,2014-01-05,2014-01-01,3,47.25,Yadel,92373 Schurz Circle,Lac du Bonnet,,,Canada
+619,2,8,2014-01-21,2014-02-04,2014-01-31,3,73.25,Tekfly,383 Mallard Plaza,Banjar Tengah,,,Indonesia
+620,99,8,2014-01-17,2014-01-31,2014-01-27,2,54.84,Camimbo,7 Ridgeview Lane,Ligang,,,China
+621,85,4,2014-11-03,2014-11-17,2014-11-13,1,69.67,Bluezoom,5 Mallard Junction,Burao,,,Somalia
+622,75,3,2014-02-17,2014-03-03,2014-02-27,1,20.79,Eadel,68011 International Trail,Pinhal General,Setúbal,2865-193,Portugal
+623,31,8,2014-10-04,2014-10-18,2014-10-14,2,92.6,Jabbertype,7209 Ridge Oak Terrace,Succha,,,Peru
+624,5,2,2014-05-16,2014-05-30,2014-05-26,3,68.28,Gigashots,71 Scott Junction,Washington,District of Columbia,20420,United States
+625,5,9,2014-04-15,2014-04-29,2014-04-25,3,59.42,Wordtune,47985 Rieder Parkway,Yermish’,,,Russia
+626,97,9,2014-05-18,2014-06-01,2014-05-28,2,45.67,Geba,31950 Cordelia Hill,Shuanglu,,,China
+627,99,1,2014-11-20,2014-12-04,2014-11-30,2,53.38,Realbridge,02457 Welch Way,Lutun,,,China
+628,47,9,2014-08-29,2014-09-12,2014-09-08,1,90.73,Zoomlounge,87 Muir Junction,Pingshan,,,China
+629,27,10,2014-01-14,2014-01-28,2014-01-24,1,88.54,Gabvine,218 Kinsman Trail,Säffle,Värmland,661 24,Sweden
+630,21,10,2014-10-28,2014-11-11,2014-11-07,1,5.91,Skipstorm,50 Rigney Center,Serravalle,,,San Marino
+631,40,4,2014-03-09,2014-03-23,2014-03-19,3,77.14,Zoombeat,21 Dennis Court,Santo Niño,,,Philippines
+632,96,3,2014-04-04,2014-04-18,2014-04-14,3,21.03,Jayo,13888 Marcy Avenue,Suphan Buri,,,Thailand
+633,96,6,2013-11-30,2013-12-14,2013-12-10,3,63.97,Divape,4 Cherokee Place,Tuchlovice,,,Czech Republic
+634,68,2,2014-01-22,2014-02-05,2014-02-01,1,38.68,Realbridge,6 Mayfield Center,Toubao,,,China
+635,65,8,2014-01-26,2014-02-09,2014-02-05,2,41.79,Edgeblab,2 Rutledge Trail,Arrah,,,Ivory Coast
+636,30,1,2014-09-28,2014-10-12,2014-10-08,2,14.56,Zoomdog,9 North Parkway,Baki,,,Indonesia
+637,49,10,2014-05-09,2014-05-23,2014-05-19,1,1.67,Meemm,13 Atwood Pass,Dong Liang’erzhuang,,,China
+638,39,10,2014-03-03,2014-03-17,2014-03-13,2,44.31,Devpulse,8 Logan Point,Bác Ái,,,Vietnam
+639,1,8,2014-08-31,2014-09-14,2014-09-10,3,35.61,Trudeo,981 Bluestem Park,Alcains,Castelo Branco,6005-005,Portugal
+640,72,5,2014-06-15,2014-06-29,2014-06-25,3,29.25,Topdrive,93 Gulseth Lane,Taldyqorghan,,,Kazakhstan
+641,19,6,2014-06-25,2014-07-09,2014-07-05,3,91.18,Realcube,122 Pawling Point,Kozy,,,Poland
+642,47,7,2014-11-04,2014-11-18,2014-11-14,2,71.4,Zoozzy,257 Becker Alley,Ruda Maleniecka,,,Poland
+643,65,2,2014-05-05,2014-05-19,2014-05-15,1,4.23,Riffwire,245 Kenwood Hill,Xanxerê,,,Brazil
+644,20,9,2013-12-17,2013-12-31,2013-12-27,3,59.37,Twitterwire,82111 Talisman Court,Soreang,,,Indonesia
+645,62,8,2014-07-01,2014-07-15,2014-07-11,1,71.88,Edgewire,19 Holy Cross Road,Xigou,,,China
+646,45,2,2014-11-06,2014-11-20,2014-11-16,3,85.5,Thoughtstorm,706 School Crossing,Berlin,Berlin,12307,Germany
+647,4,5,2014-05-03,2014-05-17,2014-05-13,2,66.39,Chatterpoint,782 Walton Lane,Setaka,,,Japan
+648,2,9,2014-02-04,2014-02-18,2014-02-14,3,39.28,Dynabox,81989 Nevada Center,Musan-ŭp,,,North Korea
+649,23,2,2014-05-25,2014-06-08,2014-06-04,2,41.91,Omba,310 Dorton Point,Paris 17,Île-de-France,75853 CEDEX 17,France
+650,46,1,2014-04-13,2014-04-27,2014-04-23,2,8.75,Mynte,83974 Forest Circle,Mendi,,,Papua New Guinea
+651,58,7,2014-08-30,2014-09-13,2014-09-09,3,45.98,Avamba,982 Russell Way,Ajdabiya,,,Libya
+652,77,9,2014-11-07,2014-11-21,2014-11-17,3,56.39,Brainlounge,261 Porter Avenue,Cherbourg-Octeville,Basse-Normandie,50109 CEDEX,France
+653,94,9,2014-11-04,2014-11-18,2014-11-14,1,93.08,Devify,701 Shasta Lane,Monção,Viana do Castelo,4950-416,Portugal
+654,22,9,2014-06-12,2014-06-26,2014-06-22,3,40.23,Jayo,23917 Kinsman Place,Balitai,,,China
+655,66,1,2014-01-02,2014-01-16,2014-01-12,2,75.61,Gigashots,0321 Golf View Pass,Mamara,,,Peru
+656,13,3,2013-12-08,2013-12-22,2013-12-18,1,85.65,Kazu,542 Donald Parkway,Maoming,,,China
+657,84,9,2014-01-12,2014-01-26,2014-01-22,1,43.34,Gabspot,9058 Burning Wood Alley,Naru,,,Indonesia
+658,82,5,2014-09-11,2014-09-25,2014-09-21,1,13.76,Meembee,76 Nancy Road,Vavoua,,,Ivory Coast
+659,25,5,2014-05-10,2014-05-24,2014-05-20,2,92.05,Gevee,8506 Coolidge Drive,Tennō,,,Japan
+660,84,2,2014-09-21,2014-10-05,2014-10-01,1,47.06,Blogtags,7803 Glacier Hill Circle,‘Attīl,,,Palestinian Territory
+661,99,3,2014-08-27,2014-09-10,2014-09-06,1,15.61,Voolia,057 Grim Parkway,Koper,,,Slovenia
+662,69,3,2014-09-28,2014-10-12,2014-10-08,1,95.41,Youbridge,81457 Scofield Trail,Zhen’an,,,China
+663,21,9,2014-09-26,2014-10-10,2014-10-06,1,78.18,Quinu,23 Blackbird Street,Madalena do Mar,Ilha da Madeira,9360-413,Portugal
+664,96,9,2014-05-04,2014-05-18,2014-05-14,2,50.75,Fatz,4307 Hermina Parkway,Bécancour,,,Canada
+665,54,7,2014-06-27,2014-07-11,2014-07-07,1,99.42,Devify,5 Macpherson Trail,Abang,,,Indonesia
+666,6,7,2014-04-22,2014-05-06,2014-05-02,1,13.57,Quatz,215 Bartillon Park,Machida,,,Japan
+667,64,8,2014-02-28,2014-03-14,2014-03-10,2,41.42,Zoonoodle,4 Continental Pass,Soisy-sous-Montmorency,Île-de-France,95234,France
+668,5,8,2014-03-11,2014-03-25,2014-03-21,3,39.34,InnoZ,7 Fallview Alley,Biao,,,Philippines
+669,26,4,2014-04-07,2014-04-21,2014-04-17,2,72.86,Quatz,6970 Myrtle Road,Kelowna,,,Canada
+670,72,7,2014-06-18,2014-07-02,2014-06-28,2,92.05,Chatterpoint,835 Lillian Park,Az Zaytūnīyah,,,Palestinian Territory
+671,31,6,2014-01-03,2014-01-17,2014-01-13,2,72.75,Wordify,3 Superior Road,Sulop,,,Philippines
+672,23,5,2014-02-04,2014-02-18,2014-02-14,1,5.88,Yakitri,4 Hallows Park,Port Louis,,,Mauritius
+673,94,10,2014-08-04,2014-08-18,2014-08-14,1,48.04,Tagcat,846 Surrey Lane,Hoeryŏng,,,North Korea
+674,6,10,2014-06-18,2014-07-02,2014-06-28,2,95.18,Twitterbridge,716 Anderson Trail,Yunlong,,,China
+675,78,8,2014-03-24,2014-04-07,2014-04-03,1,59.19,Gigaclub,734 Bowman Plaza,Xuefeng,,,China
+676,42,1,2014-04-30,2014-05-14,2014-05-10,3,72.02,Quimm,5 Porter Avenue,Las Varas,,,Argentina
+677,65,5,2014-01-16,2014-01-30,2014-01-26,1,56.22,Twimm,5 Dwight Park,La Curva,,,Philippines
+678,22,5,2014-01-14,2014-01-28,2014-01-24,2,78.76,Fadeo,62 Park Meadow Court,Sedlčany,,,Czech Republic
+679,15,10,2014-09-25,2014-10-09,2014-10-05,1,38.5,Flashspan,875 Kropf Plaza,Neikeng,,,China
+680,10,3,2014-05-20,2014-06-03,2014-05-30,3,97.28,Pixope,7 Buhler Pass,Bajiao,,,China
+681,64,10,2014-01-28,2014-02-11,2014-02-07,1,59.66,Zoozzy,2408 Park Meadow Parkway,Manzini,,,Swaziland
+682,72,9,2013-11-27,2013-12-11,2013-12-07,3,42.15,Yodo,2 Dixon Street,Smyków,,,Poland
+683,75,4,2014-02-14,2014-02-28,2014-02-24,2,53.77,Yamia,2831 Moulton Parkway,Barmash,,,Albania
+684,44,3,2014-07-17,2014-07-31,2014-07-27,2,72.36,Buzzster,3 Rusk Street,Yangfeng,,,China
+685,9,3,2014-11-23,2014-12-07,2014-12-03,1,51.2,Yozio,75274 Onsgard Alley,Kamenný Přívoz,,,Czech Republic
+686,32,2,2014-01-24,2014-02-07,2014-02-03,3,64.39,Myworks,6 Mosinee Plaza,Nanhe,,,China
+687,81,4,2014-10-17,2014-10-31,2014-10-27,3,7.95,Tagcat,9 Steensland Drive,Fuchang,,,China
+688,10,3,2014-10-03,2014-10-17,2014-10-13,3,76.01,Rhycero,8 Schiller Pass,Bradag,,,Indonesia
+689,9,6,2014-03-04,2014-03-18,2014-03-14,3,4.85,Divape,0 Tennyson Plaza,Novi Travnik,,,Bosnia and Herzegovina
+690,7,1,2014-10-03,2014-10-17,2014-10-13,1,68.27,Flashdog,6754 Fieldstone Street,Xinjie,,,China
+691,32,5,2014-02-17,2014-03-03,2014-02-27,2,40.31,Browsezoom,15 Hazelcrest Court,Tamana,,,Japan
+692,93,8,2014-10-08,2014-10-22,2014-10-18,2,67.39,Twitterlist,881 Kipling Road,Barakī Barak,,,Afghanistan
+693,1,4,2014-08-08,2014-08-22,2014-08-18,3,35.65,Edgewire,5960 6th Parkway,West Palm Beach,Florida,33416,United States
+694,4,1,2014-10-14,2014-10-28,2014-10-24,1,16.78,Fliptune,32 Algoma Circle,Kudahuvadhoo,,,Maldives
+695,30,1,2014-08-20,2014-09-03,2014-08-30,3,67.64,Topicware,104 Butterfield Trail,Guiset East,,,Philippines
+696,66,4,2014-01-13,2014-01-27,2014-01-23,2,27,Snaptags,9 Delladonna Alley,Zevenaar,Provincie Gelderland,6904,Netherlands
+697,71,3,2014-09-12,2014-09-26,2014-09-22,2,43.15,Eadel,9695 Karstens Hill,Sagopshi,,,Russia
+698,59,4,2013-12-26,2014-01-09,2014-01-05,3,59.99,Bubbletube,20878 Ramsey Parkway,Bukitkemuning,,,Indonesia
+699,69,7,2014-01-29,2014-02-12,2014-02-08,2,70.03,Thoughtbeat,999 Mayer Junction,Kaishantun,,,China
+700,16,1,2014-07-29,2014-08-12,2014-08-08,1,88.69,Aivee,40105 Sachs Crossing,Zhaogezhuang,,,China
+701,89,9,2014-05-16,2014-05-30,2014-05-26,1,49.5,Izio,00437 Vahlen Road,Tournon-sur-Rhône,Rhône-Alpes,07304 CEDEX,France
+702,11,4,2014-02-16,2014-03-02,2014-02-26,2,99.72,Cogilith,59 Loftsgordon Avenue,Tlumačov,,,Czech Republic
+703,1,1,2014-10-22,2014-11-05,2014-11-01,1,96.99,Ntag,49 Express Alley,Kristianstad,Skåne,291 21,Sweden
+704,61,4,2014-08-19,2014-09-02,2014-08-29,2,78.35,Meemm,899 Tennyson Crossing,Velký Újezd,,,Czech Republic
+705,98,10,2013-12-04,2013-12-18,2013-12-14,2,28.44,Yozio,5 Gateway Park,Pleszew,,,Poland
+706,99,1,2014-03-30,2014-04-13,2014-04-09,3,93.97,Thoughtbeat,36210 Fieldstone Road,Aparecida de Goiânia,,,Brazil
+707,82,7,2014-08-13,2014-08-27,2014-08-23,1,55.2,Zoomlounge,81174 Everett Lane,Jinping,,,China
+708,15,9,2013-12-03,2013-12-17,2013-12-13,1,77.5,Youtags,8 Reinke Alley,Timrat,,,Israel
+709,85,6,2014-09-06,2014-09-20,2014-09-16,1,12.09,Linktype,4214 Bowman Junction,Infonavit,San Luis Potosi,79960,Mexico
+710,6,1,2014-07-19,2014-08-02,2014-07-29,2,95.29,Abatz,94771 Browning Hill,Nancy,Lorraine,54046 CEDEX,France
+711,88,3,2014-03-26,2014-04-09,2014-04-05,3,70.14,Photojam,42755 Logan Drive,Pitangui,,,Brazil
+712,71,9,2014-10-18,2014-11-01,2014-10-28,3,46.68,Shuffletag,29 South Hill,Al Hoceïma,,,Morocco
+713,32,7,2014-03-22,2014-04-05,2014-04-01,1,92.64,Voomm,720 Schlimgen Avenue,Plužine,,,Montenegro
+714,38,4,2013-12-21,2014-01-04,2013-12-31,3,13.98,Jabbertype,30 Veith Way,Dikhil,,,Djibouti
+715,15,7,2014-09-25,2014-10-09,2014-10-05,1,42.44,Skinix,6 Cascade Center,Xiangfu,,,China
+716,71,5,2014-01-20,2014-02-03,2014-01-30,3,94.79,Brainlounge,01 Hansons Court,Aleksandrovac,,,Serbia
+717,60,5,2014-09-14,2014-09-28,2014-09-24,3,63.28,Aimbo,286 Rowland Parkway,Ying’ebu,,,China
+718,85,1,2014-06-26,2014-07-10,2014-07-06,3,43.99,Buzzdog,69 Northridge Trail,Luqiao,,,China
+719,21,2,2014-03-26,2014-04-09,2014-04-05,1,41.22,Innojam,7979 Oriole Alley,Orodara,,,Burkina Faso
+720,74,1,2014-07-31,2014-08-14,2014-08-10,2,55.38,Thoughtmix,3 Quincy Circle,Villa Altagracia,,,Dominican Republic
+721,100,9,2014-08-05,2014-08-19,2014-08-15,3,34.45,Trilia,154 Vernon Alley,Zilupe,,,Latvia
+722,99,3,2014-10-26,2014-11-09,2014-11-05,2,10.74,Edgeblab,21 Memorial Avenue,Oslo,Oslo,0264,Norway
+723,2,9,2014-07-15,2014-07-29,2014-07-25,2,81.71,Rhybox,5 Cherokee Pass,Boucinha,Viana do Castelo,4950-122,Portugal
+724,89,6,2014-07-04,2014-07-18,2014-07-14,1,54.55,Blognation,676 Lighthouse Bay Terrace,Varva,,,Ukraine
+725,50,6,2014-03-24,2014-04-07,2014-04-03,3,41.87,Shuffletag,276 Merry Crossing,Spas’ke,,,Ukraine
+726,7,3,2014-09-29,2014-10-13,2014-10-09,1,30.59,Bubblemix,857 Trailsway Trail,Esperanza,,,Argentina
+727,87,1,2014-07-07,2014-07-21,2014-07-17,1,66.64,Tagpad,93 Prairie Rose Center,Belverde,Setúbal,2845-487,Portugal
+728,94,4,2014-06-14,2014-06-28,2014-06-24,2,62.36,Rooxo,7833 Wayridge Avenue,Mikhaylovsk,,,Russia
+729,70,5,2014-02-08,2014-02-22,2014-02-18,2,50.05,Roombo,26 Scott Road,Sembakung,,,Indonesia
+730,39,1,2014-03-20,2014-04-03,2014-03-30,1,63.42,Trudeo,18617 Del Sol Drive,Ordóñez,,,Argentina
+731,93,5,2014-04-21,2014-05-05,2014-05-01,3,77.87,Katz,4 Moland Drive,Abaza,,,Russia
+732,9,9,2014-08-27,2014-09-10,2014-09-06,3,82,Yozio,5685 Holmberg Drive,Sauce,,,Uruguay
+733,49,1,2014-07-14,2014-07-28,2014-07-24,2,6.94,Wikido,2 Browning Drive,Shuiyang,,,China
+734,47,4,2014-05-31,2014-06-14,2014-06-10,2,48.42,Brightbean,1 Summit Center,Khenifra,,,Morocco
+735,85,8,2014-09-15,2014-09-29,2014-09-25,1,99.96,Skiba,94723 Lien Court,Cotaparaco,,,Peru
+736,79,8,2014-06-13,2014-06-27,2014-06-23,1,13.62,Leexo,94 Kings Court,Novoselec,,,Croatia
+737,39,2,2014-10-29,2014-11-12,2014-11-08,2,4.12,Realblab,4 Carpenter Hill,Limushan,,,China
+738,38,6,2014-07-11,2014-07-25,2014-07-21,1,49.19,Voomm,23482 Summerview Place,San Ignacio,,,Honduras
+739,63,10,2014-01-03,2014-01-17,2014-01-13,2,95.17,Flipstorm,37 Dixon Way,Fryčovice,,,Czech Republic
+740,46,9,2014-10-06,2014-10-20,2014-10-16,2,91.18,Youtags,881 Dryden Terrace,Krasnaya Gorka,,,Russia
+741,83,8,2014-10-23,2014-11-06,2014-11-02,2,36.5,Zoozzy,013 Carioca Court,Zhoukou,,,China
+742,29,2,2014-09-03,2014-09-17,2014-09-13,2,20.44,Browsecat,617 Brickson Park Junction,Tours,Centre,37072 CEDEX 2,France
+743,65,6,2014-09-11,2014-09-25,2014-09-21,2,57.73,Skyble,04 Shoshone Crossing,Frösön,Jämtland,832 93,Sweden
+744,83,10,2014-05-15,2014-05-29,2014-05-25,3,90.2,Skimia,28 Anderson Terrace,Vila Chã,Aveiro,3720-727,Portugal
+745,90,2,2014-10-14,2014-10-28,2014-10-24,1,89.36,Buzzbean,298 Gale Drive,Ribeira,Viseu,4690-480,Portugal
+746,62,2,2014-04-09,2014-04-23,2014-04-19,2,58.88,Youspan,522 Lakewood Gardens Court,Daguyun,,,China
+747,39,3,2014-07-28,2014-08-11,2014-08-07,1,17.73,Zoovu,74 Straubel Place,Jujur,,,Indonesia
+748,42,1,2014-06-14,2014-06-28,2014-06-24,3,20.61,Cogilith,6158 Myrtle Road,Koupéla,,,Burkina Faso
+749,6,7,2013-12-31,2014-01-14,2014-01-10,2,72.88,Demizz,4 Towne Point,Banhā,,,Egypt
+750,90,7,2014-01-28,2014-02-11,2014-02-07,2,40.33,Feedmix,144 Ruskin Center,Tây Đằng,,,Vietnam
+751,30,5,2014-05-11,2014-05-25,2014-05-21,3,49.85,Meeveo,6370 Holmberg Park,Garwolin,,,Poland
+752,26,9,2014-09-03,2014-09-17,2014-09-13,3,58.1,Edgetag,7 Goodland Drive,Sunzhuang,,,China
+753,74,2,2014-05-16,2014-05-30,2014-05-26,1,64.43,Latz,66 Barby Plaza,Berezivka,,,Ukraine
+754,62,1,2013-12-14,2013-12-28,2013-12-24,2,8.85,Pixonyx,7701 Memorial Way,Didi Lilo,,,Georgia
+755,17,3,2014-11-19,2014-12-03,2014-11-29,2,79.93,Geba,088 Banding Hill,Loujiadian,,,China
+756,34,1,2014-01-15,2014-01-29,2014-01-25,3,17.4,Riffpedia,3309 Bartillon Park,Komes,,,Indonesia
+757,93,7,2014-10-02,2014-10-16,2014-10-12,1,44.91,Youspan,16052 Truax Way,Borjomi,,,Georgia
+758,80,10,2014-06-30,2014-07-14,2014-07-10,3,62.23,Oyoba,44 Prairieview Crossing,Verkhoshizhem’ye,,,Russia
+759,79,2,2014-05-25,2014-06-08,2014-06-04,3,81.22,Topicstorm,89364 Division Point,Santa Maria,,,Philippines
+760,71,9,2014-01-31,2014-02-14,2014-02-10,1,13.46,Yombu,58213 Anderson Court,Huangtukuang,,,China
+761,27,4,2014-10-02,2014-10-16,2014-10-12,1,36.95,Topiclounge,584 Lighthouse Bay Hill,Birmingham,Alabama,35290,United States
+762,95,2,2014-03-02,2014-03-16,2014-03-12,1,3.32,Yacero,13 Corry Center,Lelystad,Provincie Flevoland,8204,Netherlands
+763,80,10,2014-09-07,2014-09-21,2014-09-17,1,79.73,Cogibox,8 Arkansas Alley,Mişrātah,,,Libya
+764,53,4,2014-01-17,2014-01-31,2014-01-27,2,11.36,Leenti,91700 Hallows Pass,Diepsloot,,,South Africa
+765,59,9,2014-01-31,2014-02-14,2014-02-10,1,61.82,Oyoyo,9 Caliangt Avenue,Sukamaju,,,Indonesia
+766,66,2,2014-09-13,2014-09-27,2014-09-23,2,48.82,Zoonoodle,62 Gerald Alley,Lille,Nord-Pas-de-Calais,59859 CEDEX,France
+767,9,8,2014-06-23,2014-07-07,2014-07-03,2,36.52,Dynazzy,24 Debs Plaza,Bełżec,,,Poland
+768,100,8,2014-08-18,2014-09-01,2014-08-28,3,36.15,Tagopia,6 Melrose Place,Benito Juarez,Chihuahua,31770,Mexico
+769,35,7,2014-01-12,2014-01-26,2014-01-22,1,21.55,Yakidoo,46390 Southridge Park,Tycheró,,,Greece
+770,48,3,2014-11-12,2014-11-26,2014-11-22,1,18.34,Dabjam,89 Armistice Parkway,Jinxiang,,,China
+771,60,10,2014-03-07,2014-03-21,2014-03-17,3,11.71,Skilith,97 Goodland Junction,Al Bīrah,,,Palestinian Territory
+772,61,7,2014-08-05,2014-08-19,2014-08-15,2,43.65,Browseblab,5327 Killdeer Street,Mangaldan,,,Philippines
+773,57,7,2013-12-03,2013-12-17,2013-12-13,2,35.03,Flashpoint,948 West Trail,Shibīn al Qanāţir,,,Egypt
+774,15,2,2014-08-03,2014-08-17,2014-08-13,3,14.74,Tagpad,57538 Duke Center,Majennang,,,Indonesia
+775,73,9,2014-04-05,2014-04-19,2014-04-15,1,47.4,Jayo,8 Dakota Circle,Minsk,,,Belarus
+776,77,6,2013-12-27,2014-01-10,2014-01-06,2,38.19,Mydeo,47 Butterfield Trail,Ribeirópolis,,,Brazil
+777,89,3,2014-08-28,2014-09-11,2014-09-07,1,51.19,Youbridge,86 Glendale Hill,Proástion,,,Greece
+778,94,8,2014-09-27,2014-10-11,2014-10-07,2,95.18,Zoozzy,6509 Mallard Plaza,Darfield,,,New Zealand
+779,36,8,2014-05-14,2014-05-28,2014-05-24,1,8.37,Jaxnation,68 Golf Course Trail,Kedungreja,,,Indonesia
+780,5,10,2014-10-22,2014-11-05,2014-11-01,3,72.9,Miboo,11 Manitowish Court,Palamadu,,,Indonesia
+781,84,8,2014-05-25,2014-06-08,2014-06-04,2,68.41,Gabtune,5 East Parkway,Perm,,,Russia
+782,18,7,2014-08-03,2014-08-17,2014-08-13,3,43.03,Katz,3 Waywood Crossing,Tigarunggu,,,Indonesia
+783,63,5,2013-12-19,2014-01-02,2013-12-29,1,43.98,Voolia,1776 Toban Junction,Novikovo,,,Russia
+784,52,2,2013-12-26,2014-01-09,2014-01-05,1,44.07,Fanoodle,59965 Sundown Trail,El Soberbio,,,Argentina
+785,10,9,2014-08-29,2014-09-12,2014-09-08,1,1.99,Tagcat,24 Ridge Oak Court,Svalyava,,,Ukraine
+786,61,5,2013-12-22,2014-01-05,2014-01-01,1,58.63,Jabbersphere,911 Waywood Avenue,Gunziying,,,China
+787,19,9,2013-12-10,2013-12-24,2013-12-20,2,49.04,Blogspan,97053 Namekagon Pass,Torreira,Aveiro,3870-306,Portugal
+788,7,4,2014-03-21,2014-04-04,2014-03-31,1,46.91,Voolia,77 Scofield Hill,Huayuanli,,,China
+789,19,6,2014-08-12,2014-08-26,2014-08-22,3,41.69,Meedoo,3 Bunker Hill Street,Strážnice,,,Czech Republic
+790,10,6,2013-12-09,2013-12-23,2013-12-19,1,98.52,Skyba,953 Crownhardt Pass,Nan’an,,,China
+791,22,2,2014-10-23,2014-11-06,2014-11-02,3,34.97,Skibox,5 Barby Park,Pruszcz Gdański,,,Poland
+792,33,1,2014-02-17,2014-03-03,2014-02-27,2,96.69,Skiptube,2260 Village Green Point,Anzihao,,,China
+793,54,4,2014-09-08,2014-09-22,2014-09-18,2,60.19,Babbleopia,92 Sachtjen Plaza,Ya’erya,,,China
+794,66,2,2014-11-07,2014-11-21,2014-11-17,2,47.28,Gabcube,7880 Iowa Way,Malibago,,,Philippines
+795,32,4,2014-06-18,2014-07-02,2014-06-28,2,50.43,Abatz,7 Sundown Plaza,Tubod,,,Philippines
+796,18,5,2014-01-01,2014-01-15,2014-01-11,2,64.77,Wikizz,0 Brickson Park Avenue,Hato Mayor del Rey,,,Dominican Republic
+797,71,4,2014-11-22,2014-12-06,2014-12-02,2,71.83,Einti,97 High Crossing Lane,Moravče,,,Slovenia
+798,47,6,2014-04-04,2014-04-18,2014-04-14,2,98.3,Livetube,5 Laurel Road,Pongol,,,Philippines
+799,13,7,2014-11-17,2014-12-01,2014-11-27,1,45.84,Skinix,0035 Forest Run Court,Kantharalak,,,Thailand
+800,74,10,2014-06-01,2014-06-15,2014-06-11,3,18.84,Blogtags,5 Ilene Terrace,Calsib,,,Philippines
+801,58,8,2014-08-26,2014-09-09,2014-09-05,3,39.08,Wikido,2237 Towne Trail,Victoria,,,Argentina
+802,6,2,2014-11-16,2014-11-30,2014-11-26,1,31.78,Trudoo,599 Fuller Pass,Chezhan,,,China
+803,21,6,2014-09-22,2014-10-06,2014-10-02,2,51.13,Yakitri,5 Eagle Crest Parkway,Baimiao,,,China
+804,68,7,2014-11-14,2014-11-28,2014-11-24,3,49.24,Buzzshare,471 Iowa Point,Rettikhovka,,,Russia
+805,20,2,2014-06-19,2014-07-03,2014-06-29,1,60.52,Skyvu,027 Bluestem Street,Sheffield,England,S1,United Kingdom
+806,80,4,2013-12-05,2013-12-19,2013-12-15,1,54.88,Brainbox,99 Arrowood Pass,Bang Sao Thong,,,Thailand
+807,95,9,2014-02-17,2014-03-03,2014-02-27,3,31.77,Divape,969 Waubesa Center,Stavyshche,,,Ukraine
+808,11,9,2014-08-27,2014-09-10,2014-09-06,1,37.48,Devcast,8 Wayridge Park,Tanagara,,,Indonesia
+809,19,3,2013-12-18,2014-01-01,2013-12-28,3,97.01,Zoovu,54703 Lighthouse Bay Drive,Medina Estates,,,Ghana
+810,41,2,2014-03-22,2014-04-05,2014-04-01,3,64.65,Topicshots,553 Crest Line Parkway,Mizhirah,,,Saudi Arabia
+811,80,1,2014-04-30,2014-05-14,2014-05-10,3,33.76,Dynabox,034 Elmside Avenue,Sŏnbong,,,North Korea
+812,28,7,2014-02-02,2014-02-16,2014-02-12,3,72.09,Yambee,51 Sunbrook Parkway,Liwonde,,,Malawi
+813,42,2,2014-10-03,2014-10-17,2014-10-13,3,95.24,Fivebridge,4 Anzinger Way,Beiyang,,,China
+814,82,1,2014-10-09,2014-10-23,2014-10-19,2,54.92,Wikivu,3567 Sunnyside Alley,Turi,,,Indonesia
+815,45,4,2013-12-19,2014-01-02,2013-12-29,1,19.23,Centidel,4 Vahlen Circle,Koundara,,,Guinea
+816,98,9,2014-04-02,2014-04-16,2014-04-12,2,59.32,Rhyzio,88 Helena Way,Bao’an,,,China
+817,56,4,2014-07-26,2014-08-09,2014-08-05,3,11.71,Riffpedia,99618 Carpenter Circle,Lawonda,,,Indonesia
+818,62,3,2014-09-13,2014-09-27,2014-09-23,3,71.51,Eamia,9924 Arizona Street,Krajenka,,,Poland
+819,52,10,2014-11-11,2014-11-25,2014-11-21,2,68.82,Photospace,5130 Karstens Junction,Milevsko,,,Czech Republic
+820,10,10,2014-05-18,2014-06-01,2014-05-28,2,44.6,Twiyo,75 Colorado Trail,Arauá,,,Brazil
+821,23,1,2014-03-18,2014-04-01,2014-03-28,1,19.81,Mydeo,977 Killdeer Avenue,Gibgos,,,Philippines
+822,51,8,2014-05-01,2014-05-15,2014-05-11,3,28.87,Gigashots,424 Forest Run Center,Qushi’an,,,China
+823,21,6,2014-06-17,2014-07-01,2014-06-27,1,60.96,Muxo,267 Toban Place,Bejucal,,,Cuba
+824,86,6,2014-10-22,2014-11-05,2014-11-01,3,18.57,Fatz,009 Montana Road,Padej,,,Serbia
+825,82,7,2014-10-24,2014-11-07,2014-11-03,2,94.13,Jayo,627 Muir Pass,Bouctouche,,,Canada
+826,4,7,2014-09-28,2014-10-12,2014-10-08,2,51.65,Jabbercube,92 Bluestem Terrace,Troitsk,,,Russia
+827,81,3,2014-05-10,2014-05-24,2014-05-20,2,84.06,Skivee,365 Dakota Plaza,Nanlu,,,China
+828,96,10,2014-11-05,2014-11-19,2014-11-15,1,86.22,Divape,3 Twin Pines Pass,Betim,,,Brazil
+829,4,3,2013-12-18,2014-01-01,2013-12-28,2,98.4,Tagtune,5 Algoma Court,Jinshan,,,China
+830,88,4,2014-05-11,2014-05-25,2014-05-21,2,40.85,Meevee,64210 Carpenter Center,Bassar,,,Togo
+831,89,2,2014-07-01,2014-07-15,2014-07-11,3,71.69,Voomm,32525 Mockingbird Pass,Pagaden,,,Indonesia
+832,25,4,2014-02-11,2014-02-25,2014-02-21,2,6.32,Zava,12381 7th Place,Grojec,,,Poland
+833,1,5,2014-10-31,2014-11-14,2014-11-10,1,68.14,Ailane,8 Hollow Ridge Crossing,Vila Maior,Aveiro,4525-485,Portugal
+834,67,7,2014-02-13,2014-02-27,2014-02-23,3,39.8,Oba,8 5th Drive,Yuanling,,,China
+835,75,4,2014-03-20,2014-04-03,2014-03-30,2,65.4,Bubblebox,7 Sunbrook Way,Kasina Wielka,,,Poland
+836,58,1,2014-06-25,2014-07-09,2014-07-05,3,74.2,Jabbersphere,388 Rieder Point,Paracuru,,,Brazil
+837,5,10,2014-03-16,2014-03-30,2014-03-26,1,24.22,Skaboo,29 Waywood Junction,Yashikera,,,Nigeria
+838,9,4,2014-04-19,2014-05-03,2014-04-29,1,74.77,Brainverse,45209 Mosinee Hill,Yonglong,,,China
+839,79,3,2014-04-02,2014-04-16,2014-04-12,3,42.54,Demivee,351 Mallory Drive,Lužani,,,Croatia
+840,39,9,2014-08-01,2014-08-15,2014-08-11,3,25.06,Mudo,3649 Victoria Lane,Cuozheqiangma,,,China
+841,14,3,2013-11-29,2013-12-13,2013-12-09,2,28.65,Kimia,6264 Tennyson Junction,San Francisco,,,Costa Rica
+842,51,4,2014-01-07,2014-01-21,2014-01-17,1,72.49,Npath,63 Arapahoe Pass,Nazaré da Mata,,,Brazil
+843,65,3,2014-06-23,2014-07-07,2014-07-03,2,78.67,Abata,6 Milwaukee Junction,Kórnik,,,Poland
+844,22,7,2013-12-02,2013-12-16,2013-12-12,1,26.94,Topiczoom,9122 Sommers Road,Junxi,,,China
+845,90,2,2014-03-15,2014-03-29,2014-03-25,1,5.08,Skyndu,44 Dryden Avenue,Yahil’nytsya,,,Ukraine
+846,33,2,2013-12-18,2014-01-01,2013-12-28,2,86.09,Skimia,71667 Spohn Point,Xiangshui,,,China
+847,13,8,2014-04-06,2014-04-20,2014-04-16,1,44.92,Jabberstorm,55 Vermont Parkway,Naushki,,,Russia
+848,19,7,2014-05-29,2014-06-12,2014-06-08,2,47.49,JumpXS,4196 Dexter Court,Labansari,,,Indonesia
+849,67,2,2014-02-04,2014-02-18,2014-02-14,3,41.59,Zoovu,49572 Golf Course Junction,El Matama,,,Sudan
+850,6,7,2013-12-13,2013-12-27,2013-12-23,2,56.71,Linkbridge,55354 Fuller Street,Kama,,,Russia
+851,64,10,2014-03-07,2014-03-21,2014-03-17,3,92.1,Devpulse,4746 Fieldstone Hill,Évreux,Haute-Normandie,27009 CEDEX,France
+852,75,10,2014-05-28,2014-06-11,2014-06-07,1,75.74,Meemm,94 Delaware Park,Changbao,,,China
+853,31,8,2014-07-10,2014-07-24,2014-07-20,1,71.18,Oyoloo,92771 Lakewood Gardens Plaza,San Pedro Necta,,,Guatemala
+854,45,1,2013-12-04,2013-12-18,2013-12-14,2,93.5,Wikizz,20880 Tennessee Avenue,Huanglong,,,China
+855,93,8,2014-03-03,2014-03-17,2014-03-13,2,29.39,Feedbug,194 Westport Street,Bumirejo,,,Indonesia
+856,31,4,2014-01-18,2014-02-01,2014-01-28,3,13.18,Bubblebox,3 Monument Place,Kawakawa,,,New Zealand
+857,66,7,2014-09-29,2014-10-13,2014-10-09,2,41,Devbug,8 Vera Center,Salcedo,,,Dominican Republic
+858,93,7,2014-10-23,2014-11-06,2014-11-02,2,36.92,Yabox,43426 Parkside Parkway,Xiongguan,,,China
+859,82,6,2014-10-14,2014-10-28,2014-10-24,1,55.82,Chatterpoint,47 Service Drive,Gandong,,,Indonesia
+860,50,2,2014-05-28,2014-06-11,2014-06-07,2,77.11,Ainyx,389 Lakewood Lane,Zubrzyca Dolna,,,Poland
+861,47,4,2014-01-25,2014-02-08,2014-02-04,2,7.28,Buzzster,698 Mitchell Terrace,Ipirá,,,Brazil
+862,62,2,2014-09-02,2014-09-16,2014-09-12,1,24.76,Photolist,2312 Esker Lane,Zakhim,,,Yemen
+863,68,9,2013-12-02,2013-12-16,2013-12-12,2,43.69,Yambee,722 Holy Cross Pass,Malummaduri,,,Nigeria
+864,53,5,2014-08-30,2014-09-13,2014-09-09,1,54.08,Snaptags,663 Merchant Drive,Gesikan,,,Indonesia
+865,31,8,2014-03-05,2014-03-19,2014-03-15,1,95.61,Dabjam,2313 Knutson Point,Itacurubí del Rosario,,,Paraguay
+866,26,5,2014-10-23,2014-11-06,2014-11-02,2,43.59,Twitterworks,7 5th Place,Tulle,Limousin,19011 CEDEX,France
+867,88,5,2014-05-04,2014-05-18,2014-05-14,3,74.18,Bubblemix,7 Harbort Alley,Shancheng,,,China
+868,28,8,2014-03-21,2014-04-04,2014-03-31,2,32.52,Dynabox,3549 Sunbrook Junction,Kubangwaru,,,Indonesia
+869,80,1,2014-03-18,2014-04-01,2014-03-28,2,31.86,Centidel,9 Evergreen Pass,Werinama,,,Indonesia
+870,70,7,2014-07-15,2014-07-29,2014-07-25,1,95.81,Skinte,072 Porter Circle,Igboho,,,Nigeria
+871,3,4,2014-05-11,2014-05-25,2014-05-21,3,87.28,Skyvu,1 Thompson Crossing,Xiyang,,,China
+872,2,10,2014-05-07,2014-05-21,2014-05-17,1,3.56,Gabvine,8 Caliangt Alley,Valbo,Gävleborg,818 92,Sweden
+873,17,4,2014-09-17,2014-10-01,2014-09-27,3,80.87,Camimbo,2309 Pepper Wood Street,Řečany nad Labem,,,Czech Republic
+874,49,5,2014-10-15,2014-10-29,2014-10-25,3,50.72,Jatri,345 Knutson Lane,Shakhun’ya,,,Russia
+875,63,8,2014-09-22,2014-10-06,2014-10-02,1,7.87,Trudeo,0 Spaight Parkway,Machico,Ilha da Madeira,9200-088,Portugal
+876,85,2,2014-03-08,2014-03-22,2014-03-18,3,13.95,Ooba,45436 Pine View Alley,Guayaybi,,,Paraguay
+877,57,5,2014-07-31,2014-08-14,2014-08-10,1,77.63,Riffpath,7026 Forest Terrace,Abobo,,,Ivory Coast
+878,17,1,2013-12-24,2014-01-07,2014-01-03,1,24.75,Riffwire,0 Fuller Trail,Yixin,,,China
+879,69,1,2013-11-24,2013-12-08,2013-12-04,1,80.98,Skippad,91 Lakeland Lane,Yessentuki,,,Russia
+880,49,2,2014-09-05,2014-09-19,2014-09-15,1,83.76,Oyoyo,0 Prentice Center,Fangxi,,,China
+881,41,9,2014-01-09,2014-01-23,2014-01-19,3,65.71,Kwideo,8796 Magdeline Court,Taiping,,,China
+882,42,10,2014-06-19,2014-07-03,2014-06-29,1,4.89,Feedfish,3055 Waubesa Pass,Baykonyr,,,Kazakhstan
+883,86,1,2014-07-24,2014-08-07,2014-08-03,1,70.92,Jaxnation,47426 Gerald Junction,Akhtopol,,,Bulgaria
+884,80,7,2014-08-04,2014-08-18,2014-08-14,1,37.78,Shufflebeat,601 Sunbrook Court,Boniewo,,,Poland
+885,94,7,2014-11-08,2014-11-22,2014-11-18,3,2.43,Quatz,099 Oak Avenue,Rinconada,,,Argentina
+886,11,9,2014-04-15,2014-04-29,2014-04-25,3,5.04,Linkbridge,2 Sunfield Circle,Talon,,,Indonesia
+887,90,5,2014-02-01,2014-02-15,2014-02-11,2,26.86,Tagpad,82747 Anzinger Parkway,Lampa,,,Indonesia
+888,2,5,2014-11-04,2014-11-18,2014-11-14,2,20.92,Gabcube,1 Daystar Way,Şafwá,,,Saudi Arabia
+889,82,7,2014-05-06,2014-05-20,2014-05-16,3,81.19,Tagopia,3 Vera Terrace,Dobryanka,,,Russia
+890,33,7,2014-09-12,2014-09-26,2014-09-22,3,6.16,Fivechat,766 Packers Parkway,La Libertad,,,Ecuador
+891,85,2,2014-09-26,2014-10-10,2014-10-06,1,92.24,Meedoo,91 Algoma Plaza,Cerklje na Gorenjskem,,,Slovenia
+892,74,4,2014-08-07,2014-08-21,2014-08-17,3,93.41,Jaxspan,5 Badeau Crossing,Kořenov,,,Czech Republic
+893,75,3,2014-03-10,2014-03-24,2014-03-20,2,18.11,Jabbersphere,61 Amoth Circle,Bojonglarang,,,Indonesia
+894,100,3,2014-06-21,2014-07-05,2014-07-01,1,51.61,Photobug,8 Drewry Road,Bojongloa,,,Indonesia
+895,48,1,2014-08-05,2014-08-19,2014-08-15,3,31.75,Quamba,50112 Hoard Trail,Zhili,,,China
+896,84,1,2014-09-06,2014-09-20,2014-09-16,3,7.05,Rhybox,35493 Hanover Parkway,Paris 12,Île-de-France,75609 CEDEX 12,France
+897,65,5,2014-03-22,2014-04-05,2014-04-01,1,73.56,Eadel,30 5th Road,Bebedouro,,,Brazil
+898,23,10,2014-07-02,2014-07-16,2014-07-12,1,8.65,Shufflester,85027 3rd Alley,Zigong,,,China
+899,73,8,2014-02-24,2014-03-10,2014-03-06,1,2.85,Realbuzz,7128 Loeprich Plaza,Saint-Brieuc,Bretagne,22091 CEDEX 9,France
+900,69,4,2014-05-04,2014-05-18,2014-05-14,2,51.62,Vipe,05390 Superior Plaza,Pokhara,,,Nepal
+901,65,9,2014-03-07,2014-03-21,2014-03-17,2,94.76,Omba,061 Loomis Circle,Idkū,,,Egypt
+902,100,8,2014-01-13,2014-01-27,2014-01-23,3,56.54,Skalith,13 Bonner Terrace,Pisangkemeng,,,Indonesia
+903,27,3,2014-08-13,2014-08-27,2014-08-23,2,3.04,Vipe,37128 Briar Crest Point,Moste,,,Slovenia
+904,38,10,2014-08-13,2014-08-27,2014-08-23,2,94.33,Tambee,46409 Ridgeview Park,Miami Beach,Florida,33141,United States
+905,65,10,2014-04-07,2014-04-21,2014-04-17,3,12.84,Meeveo,14673 Rusk Center,Xikou,,,China
+906,11,4,2013-12-01,2013-12-15,2013-12-11,3,33.16,Ainyx,72 Badeau Street,Sidomekar,,,Indonesia
+907,31,1,2014-10-17,2014-10-31,2014-10-27,1,80.33,Muxo,6 Mandrake Circle,Macapá,,,Brazil
+908,54,2,2014-05-20,2014-06-03,2014-05-30,1,32.53,Yakidoo,1578 Manufacturers Way,Chonglou,,,China
+909,95,7,2014-07-30,2014-08-13,2014-08-09,1,51.43,Thoughtmix,8 Autumn Leaf Trail,Krasnaya Polyana,,,Russia
+910,13,6,2014-07-09,2014-07-23,2014-07-19,2,80.31,Devpoint,1 Birchwood Avenue,Baofeng,,,China
+911,34,9,2014-02-12,2014-02-26,2014-02-22,1,98.79,Voonix,39320 Maple Wood Place,Hankasalmi,,,Finland
+912,94,5,2014-05-19,2014-06-02,2014-05-29,1,84.5,Innojam,7 Valley Edge Lane,Blarney,,,Ireland
+913,70,9,2014-05-08,2014-05-22,2014-05-18,3,61.02,Demivee,24 Warbler Hill,Menlou’ao,,,China
+914,9,3,2013-12-28,2014-01-11,2014-01-07,1,49.37,Voonte,1 Service Center,Lucban,,,Philippines
+915,11,10,2014-09-23,2014-10-07,2014-10-03,1,41.06,Jazzy,8187 Mariners Cove Center,Liyang,,,China
+916,8,4,2014-02-06,2014-02-20,2014-02-16,2,13.49,Yombu,5847 Memorial Junction,Henghe,,,China
+917,17,8,2014-01-30,2014-02-13,2014-02-09,3,14.31,Feedspan,969 Mayfield Hill,Smimou,,,Morocco
+918,51,1,2013-12-04,2013-12-18,2013-12-14,2,23.98,Riffwire,4504 Sutteridge Park,Vidin,,,Bulgaria
+919,17,6,2014-02-14,2014-02-28,2014-02-24,1,3.65,Mybuzz,19 Meadow Ridge Alley,Rokytne,,,Ukraine
+920,83,3,2014-02-03,2014-02-17,2014-02-13,2,2.79,Oyoba,6051 Toban Alley,Lagunas,,,Peru
+921,95,7,2014-10-26,2014-11-09,2014-11-05,2,53.94,Jabberstorm,14724 Rigney Plaza,Kanie,,,Japan
+922,45,2,2014-09-15,2014-09-29,2014-09-25,2,81.53,Quimba,0010 Karstens Terrace,Cajamar,,,Brazil
+923,67,8,2014-09-08,2014-09-22,2014-09-18,2,83.07,Rooxo,108 Emmet Pass,Vespasiano,,,Brazil
+924,13,6,2014-11-14,2014-11-28,2014-11-24,3,8.36,Twitterworks,97813 Rigney Hill,Minami-rinkan,,,Japan
+925,66,1,2014-10-25,2014-11-08,2014-11-04,2,63.63,Zooveo,24 Troy Court,Dupi,,,China
+926,11,6,2014-04-07,2014-04-21,2014-04-17,1,24.36,Twitterbeat,8496 Eastwood Avenue,Acobambilla,,,Peru
+927,3,10,2014-07-15,2014-07-29,2014-07-25,2,81.81,Trudoo,4 Pine View Circle,Kohtla-Järve,,,Estonia
+928,11,10,2014-06-20,2014-07-04,2014-06-30,2,13.96,Skyvu,3 Hanover Junction,Aykhal,,,Russia
+929,42,9,2014-02-19,2014-03-05,2014-03-01,2,59.4,Buzzster,0896 Jay Avenue,Makadi Bay,,,Egypt
+930,50,10,2014-10-28,2014-11-11,2014-11-07,2,15.73,Mita,60 Truax Parkway,Edsbyn,Gävleborg,828 94,Sweden
+931,63,9,2014-02-05,2014-02-19,2014-02-15,3,32.84,Cogibox,6 Grim Park,Lughaye,,,Somalia
+932,82,9,2014-01-06,2014-01-20,2014-01-16,2,28.85,Twitterworks,76 Victoria Parkway,Nadi,,,Fiji
+933,74,9,2013-12-19,2014-01-02,2013-12-29,2,68.13,Twitterworks,630 Logan Crossing,Catanauan,,,Philippines
+934,83,3,2013-12-17,2013-12-31,2013-12-27,2,36.38,Gabtune,39080 Heffernan Pass,Pacov,,,Czech Republic
+935,32,3,2014-02-04,2014-02-18,2014-02-14,1,44.69,Thoughtmix,2213 Springs Way,Shu,,,Kazakhstan
+936,61,3,2014-10-11,2014-10-25,2014-10-21,1,61.96,Twitterlist,7418 Tennyson Lane,Dalong,,,Indonesia
+937,51,7,2013-11-28,2013-12-12,2013-12-08,1,95.02,Gigaclub,57011 Weeping Birch Way,Dobruševo,,,Macedonia
+938,3,7,2014-09-14,2014-09-28,2014-09-24,3,45.56,Skyndu,6182 Dunning Terrace,Geneng,,,Indonesia
+939,75,10,2014-07-21,2014-08-04,2014-07-31,2,35.19,Voomm,384 Burrows Point,Tokyo,,,Japan
+940,7,1,2014-07-23,2014-08-06,2014-08-02,2,51.76,Zoonoodle,1965 Scott Alley,Kalunan,,,Indonesia
+941,19,10,2014-05-26,2014-06-09,2014-06-05,2,62.26,Babbleopia,93 Butternut Street,Zunilito,,,Guatemala
+942,86,5,2014-04-12,2014-04-26,2014-04-22,1,63.34,Skippad,0105 Jackson Court,Kharagauli,,,Georgia
+943,91,8,2013-11-28,2013-12-12,2013-12-08,3,13.28,Fivespan,97452 Ridge Oak Avenue,Allen,,,Argentina
+944,85,2,2014-08-09,2014-08-23,2014-08-19,3,13.28,Minyx,8 Ridge Oak Alley,Bangkok,,,Thailand
+945,48,2,2014-04-01,2014-04-15,2014-04-11,2,56.1,Meevee,477 Fairview Road,Nangalimang,,,Indonesia
+946,72,10,2014-10-04,2014-10-18,2014-10-14,2,87.86,Eadel,50546 Monica Terrace,Huangji,,,China
+947,41,2,2014-10-03,2014-10-17,2014-10-13,1,18.05,Quaxo,7 Monica Pass,Jarabacoa,,,Dominican Republic
+948,71,3,2014-07-24,2014-08-07,2014-08-03,2,44.08,Wikido,4 Merrick Lane,Hengshan,,,China
+949,55,2,2014-05-21,2014-06-04,2014-05-31,1,86.02,Quire,1 Westport Way,Soacha,,,Colombia
+950,33,2,2014-01-21,2014-02-04,2014-01-31,1,94.64,Tazz,7753 Farragut Place,Qifang,,,China
+951,75,9,2014-11-20,2014-12-04,2014-11-30,2,81.7,Tagopia,3632 North Park,Liebu,,,China
+952,45,7,2014-09-03,2014-09-17,2014-09-13,1,66.49,Yozio,45995 Corscot Lane,Sovetskiy,,,Russia
+953,31,4,2014-04-23,2014-05-07,2014-05-03,3,82.9,Kwinu,1650 Fairview Junction,Kanghe,,,China
+954,69,1,2014-11-22,2014-12-06,2014-12-02,2,12.88,Realfire,5749 Valley Edge Center,Xiaoyi,,,China
+955,8,4,2013-11-26,2013-12-10,2013-12-06,3,13.81,Quinu,3 Moulton Junction,Helmas,,,Albania
+956,1,9,2014-06-20,2014-07-04,2014-06-30,3,93.35,Quire,11112 Summit Trail,Besteiros,Porto,4580-290,Portugal
+957,27,7,2014-03-31,2014-04-14,2014-04-10,1,76.87,LiveZ,04773 Red Cloud Place,Luopu,,,China
+958,97,8,2014-10-05,2014-10-19,2014-10-15,2,29.53,Youspan,0354 Orin Crossing,Tabalosos,,,Peru
+959,54,3,2014-07-07,2014-07-21,2014-07-17,1,20.55,Kimia,4522 Morningstar Way,Jam,,,Iran
+960,3,7,2014-05-28,2014-06-11,2014-06-07,2,31.73,Jaxnation,46 Erie Park,Cupira,,,Brazil
+961,25,1,2014-09-05,2014-09-19,2014-09-15,1,42.71,Blogtags,5 Lunder Road,Taznakht,,,Morocco
+962,90,2,2014-11-03,2014-11-17,2014-11-13,1,26.6,Flashdog,260 Welch Plaza,Zarechnyy,,,Russia
+963,47,5,2014-01-19,2014-02-02,2014-01-29,2,18.52,Quatz,26590 Trailsway Road,Kyegegwa,,,Uganda
+964,42,2,2014-02-02,2014-02-16,2014-02-12,1,99.76,Miboo,5086 Kingsford Street,Tai’an,,,China
+965,7,10,2014-04-30,2014-05-14,2014-05-10,1,58.5,Jaloo,268 Hayes Parkway,Ficksburg,,,South Africa
+966,81,3,2013-12-01,2013-12-15,2013-12-11,3,25.19,Tazzy,7 Springs Plaza,Göteborg,Västra Götaland,401 99,Sweden
+967,47,7,2014-09-12,2014-09-26,2014-09-22,3,64.48,Bubbletube,557 Starling Trail,Haicheng,,,China
+968,23,8,2014-08-04,2014-08-18,2014-08-14,2,15.79,Rhynyx,45 Quincy Point,Tungi,,,Bangladesh
+969,50,7,2014-09-07,2014-09-21,2014-09-17,2,35.71,Ailane,47 Lighthouse Bay Point,Jatiklampok,,,Indonesia
+970,72,3,2014-10-20,2014-11-03,2014-10-30,1,50.65,Tagtune,53 Farmco Junction,Pierzchnica,,,Poland
+971,34,5,2014-06-15,2014-06-29,2014-06-25,1,44.94,Tanoodle,30 Merry Terrace,Seixal,Setúbal,2840-466,Portugal
+972,69,7,2014-02-23,2014-03-09,2014-03-05,3,44.38,Twitterlist,6155 Drewry Point,Curahnongko,,,Indonesia
+973,49,6,2014-08-21,2014-09-04,2014-08-31,3,52.5,Zoomlounge,8 Anzinger Drive,Kitaibaraki,,,Japan
+974,86,5,2014-07-30,2014-08-13,2014-08-09,2,92.25,Zoomdog,20 Quincy Terrace,Zhiqu,,,China
+975,64,8,2014-09-09,2014-09-23,2014-09-19,3,34.99,Realfire,07 Farwell Way,Trąbki Wielkie,,,Poland
+976,45,6,2014-01-05,2014-01-19,2014-01-15,2,80.3,Cogidoo,088 Montana Circle,Pahonjean,,,Indonesia
+977,50,4,2014-07-27,2014-08-10,2014-08-06,1,13.6,Vipe,86858 Golf View Place,Liqi,,,China
+978,71,7,2014-10-06,2014-10-20,2014-10-16,2,82.05,Avamm,61197 South Avenue,Yanqian,,,China
+979,52,10,2014-01-25,2014-02-08,2014-02-04,2,61.08,Mybuzz,37327 Raven Drive,Taiqing,,,China
+980,51,4,2013-12-15,2013-12-29,2013-12-25,3,61.77,Kwinu,19 Summerview Crossing,Leskovac,,,Serbia
+981,29,7,2014-01-30,2014-02-13,2014-02-09,2,46.02,Gevee,3 Autumn Leaf Avenue,Bebedouro,,,Brazil
+982,15,7,2014-11-18,2014-12-02,2014-11-28,3,3.82,Zoonoodle,6 West Way,Trollhättan,Västra Götaland,461 70,Sweden
+983,78,6,2014-04-12,2014-04-26,2014-04-22,2,5.12,Babbleblab,983 Ramsey Court,Nijmegen,Provincie Gelderland,6519,Netherlands
+984,13,5,2014-09-23,2014-10-07,2014-10-03,1,52.44,Dazzlesphere,04692 Dwight Park,Jinshan,,,China
+985,1,10,2014-02-16,2014-03-02,2014-02-26,2,86.64,Yotz,7 Warner Point,Thorpe,England,BD23,United Kingdom
+986,59,10,2014-08-13,2014-08-27,2014-08-23,2,70.35,Browsezoom,7851 Scofield Terrace,Pitogo,,,Philippines
+987,65,7,2014-10-10,2014-10-24,2014-10-20,3,40.11,Shufflebeat,79 Drewry Trail,Flin Flon,,,Canada
+988,78,8,2014-11-19,2014-12-03,2014-11-29,3,3.77,Livepath,08 Golf Lane,Örebro,Örebro,703 54,Sweden
+989,69,8,2014-11-22,2014-12-06,2014-12-02,1,75.34,Trupe,566 Killdeer Street,Novoul’yanovsk,,,Russia
+990,43,10,2014-06-23,2014-07-07,2014-07-03,1,23.43,Browseblab,1 Randy Road,Tairan Camp,,,Philippines
+991,36,5,2014-03-27,2014-04-10,2014-04-06,1,53.01,Thoughtstorm,32 Hovde Pass,Lupak,,,Indonesia
+992,61,8,2014-08-04,2014-08-18,2014-08-14,2,39.61,Skinte,07155 Mariners Cove Street,Tuupovaara,,,Finland
+993,46,5,2014-07-23,2014-08-06,2014-08-02,3,91.95,Skiba,72 Miller Court,Hezhi,,,China
+994,82,3,2014-06-10,2014-06-24,2014-06-20,2,23.94,Gabspot,477 Red Cloud Pass,Cầu Giát,,,Vietnam
+995,95,5,2014-04-27,2014-05-11,2014-05-07,3,34.38,Feedbug,7 Fisk Trail,Van Nuys,California,91406,United States
+996,46,8,2014-03-12,2014-03-26,2014-03-22,1,27.36,Meezzy,7 Hollow Ridge Alley,Yoshii,,,Japan
+997,10,5,2014-06-04,2014-06-18,2014-06-14,1,78.44,Voolith,59 Shopko Drive,Siqu,,,China
+998,12,2,2014-07-21,2014-08-04,2014-07-31,3,60.98,Quatz,209 Manufacturers Drive,Detroit,Michigan,48211,United States
+999,68,4,2013-12-09,2013-12-23,2013-12-19,3,35.25,Yotz,214 Alpine Hill,Zhujiapu,,,China
+1000,49,5,2014-01-08,2014-01-22,2014-01-18,3,14.79,Fadeo,642 Shelley Hill,MacArthur,,,Philippines
