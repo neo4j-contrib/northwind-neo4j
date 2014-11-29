@@ -1,0 +1,41 @@
+#!/bin/bash
+
+SCHEMA=$1
+NAME=$2
+TOTAL=${3-21000}
+INCREMENT=5000
+REMAINING=$TOTAL
+COUNTER=0
+PASS=0
+
+echo ${AWK_BUMP}
+
+while [  $COUNTER -lt $TOTAL ]; do
+  (( REMAINING = TOTAL - COUNTER ))
+  (( CHUNKSIZE = REMAINING<INCREMENT?REMAINING:INCREMENT ))
+  (( PASS++ ))
+
+  echo Got ${COUNTER}, getting another ${CHUNKSIZE} with ${REMAINING} of ${TOTAL} remaining
+  curl "http://www.mockaroo.com/${SCHEMA}/download?count=${CHUNKSIZE}&key=477ba4c0" > ${NAME}-${PASS}.csv
+
+  let COUNTER=COUNTER+${CHUNKSIZE}
+done
+
+(( PASS = 0 ))
+# trim off headers from all but the first file
+for f in ${NAME}-*.csv
+do
+  if [ $f != ${NAME}-1.csv ] ; then
+    (( PASS++ ))
+    (( OFFSET = PASS * INCREMENT ))
+    echo "Processing $f file..";
+    tail -n +2 $f > ${f}-trimmed
+    awk -v offset=${OFFSET} 'BEGIN { FS = ","; OFS = ","; } { $1 += offset; print; }' ${f}-trimmed > ${f}
+  fi
+done
+
+cat ${NAME}-*.csv > ${NAME}.csv
+
+rm ${NAME}-*.csv ${NAME}*-trimmed
+
+echo Produced $COUNTER ${NAME} records in ${NAME}.csv
