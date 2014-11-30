@@ -1,7 +1,7 @@
 // NORTHWIND - load products
-LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/neo4j-contrib/northwind-neo4j/master/original/products.csv" AS row
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/neo4j-contrib/northwind-neo4j/northwind/data/products.csv" AS row
 CREATE (n:Product)
-SET n = row, 
+SET n = row,
   n.ProductID = toInt(row.ProductID),
   n.SupplierID = toInt(row.SupplierID),
   n.CategoryID = toInt(row.CategoryID),
