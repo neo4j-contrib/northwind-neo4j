@@ -1,7 +1,8 @@
+OrderID,CustomerID,EmployeeID,OrderDate,RequiredDate,ShippedDate,ShipVia,Freight,ShipName,ShipAddress,ShipCity,ShipRegion,ShipPostalCode,ShipCountry
 10248,VINET,5,1996-07-04 00:00:00.000,1996-08-01 00:00:00.000,1996-07-16 00:00:00.000,3,32.38,"Vins et alcools Chevalier","59 rue de l'Abbaye","Reims",NULL,51100,France
 10249,TOMSP,6,1996-07-05 00:00:00.000,1996-08-16 00:00:00.000,1996-07-10 00:00:00.000,1,11.61,"Toms Spezialitäten","Luisenstr. 48","Münster",NULL,44087,Germany
 10250,HANAR,4,1996-07-08 00:00:00.000,1996-08-05 00:00:00.000,1996-07-12 00:00:00.000,2,65.83,"Hanari Carnes","Rua do Paço"," 67",Rio de Janeiro,RJ,05454-876,Brazil
-10"2"51,VICTE,3,1996-07-08 00:00:00.000,1996-08-05 00:00:00.000,1996-07-15 00:00:00.000,1,41.34,"Victuailles en stock",2," rue du Commerce",Lyon,NULL,69004,France
+10251,VICTE,3,1996-07-08 00:00:00.000,1996-08-05 00:00:00.000,1996-07-15 00:00:00.000,1,41.34,"Victuailles en stock",2," rue du Commerce",Lyon,NULL,69004,France
 10252,SUPRD,4,1996-07-09 00:00:00.000,1996-08-06 00:00:00.000,1996-07-11 00:00:00.000,2,51.30,"Suprêmes délices","Boulevard Tirou"," 255",Charleroi,NULL,B-6000,Belgium
 10253,HANAR,3,1996-07-10 00:00:00.000,1996-07-24 00:00:00.000,1996-07-16 00:00:00.000,2,58.17,"Hanari Carnes","Rua do Paço"," 67",Rio de Janeiro,RJ,05454-876,Brazil
 10254,CHOPS,5,1996-07-11 00:00:00.000,1996-08-08 00:00:00.000,1996-07-23 00:00:00.000,2,22.98,"Chop-suey Chinese","Hauptstr. 31","Bern",NULL,3012,Switzerland
