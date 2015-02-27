@@ -1,4 +1,4 @@
-OrderID,ProductID,UnitPrice,Quantity,Discount
+orderID,productID,unitPrice,quantity,discount
 10248,11,14.00,12,0
 10248,42,9.80,10,0
 10248,72,34.80,5,0
