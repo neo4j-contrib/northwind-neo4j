@@ -66,7 +66,13 @@ In this example, one could add a column with header `LABEL` and content `Supplie
 As the `supplier.csv` file represents nodes that have all the same label, the node label can be declared on the command line.
 The command below loads just the Supply nodes to a database in a selected directory:
 
+### Delimiters
+
+Because addresses in particular have many commas, the data would ideally be exported using a non-comma delimiter.
+Replace the delimiter in the dataset with something else, like a `;`.
+Note that if you change the delimiter to `;`, you will have to set the `array-delimiter` to something else (like `|`), because `;` is the defailt `array-delimiter`. 
+
 ```
-neo4j-import --into path_to_target_directory --nodes:Supplier suppliers.csv
+neo4j-import --into northwind-db --nodes:Supplier import-tool-data/suppliers.csv --ignore-empty-strings --delimiter ";" --array-delimiter "|" --id-type INTEGER
 ```
 
