@@ -64,13 +64,55 @@ id:ID(Supplier),companyName:String,contactName:String,contactTitle:String,...
 Use the `LABEL` header to provide the labels of each node created by a row.
 In this example, one could add a column with header `LABEL` and content `Supplier`, `Product`, or whatever the node labels are.
 As the `supplier.csv` file represents nodes that have all the same label, the node label can be declared on the command line.
-The command below loads just the Supply nodes to a database in a selected directory:
 
 ### Delimiters
 
 Because addresses in particular have many commas, the data would ideally be exported using a non-comma delimiter.
 Replace the delimiter in the dataset with something else, like a `TAB`.
 
+### Relationships
+
+Relationship data sources have three mandatory fields:
+
+* `TYPE`: The relationship type to use for the relationship.
+* `START_ID`: The id of the start node of the relationship to create.
+* `END_ID`: The id of the end node of the relationship to create.
+
+In the case of this dataset, the `products.csv` export from the relational database can be repurposed to build the `(:Supplier)-[:SUPPLIES]->(:Product)` relationships in the graph database. 
+Original `products.csv` header:
+
 ```
-neo4j-import --into northwind-db --ignore-empty-strings --delimiter "TAB" --nodes:Supplier import-tool-data/suppliers.csv --nodes:Product import-tool-data/products.csv --relationships:SUPPLIES import-tool-data/supplies_rels.csv --nodes:Order import-tool-data/orders.csv --nodes:Customer import-tool-data/customers.csv --relationships:PURCHASED import-tool-data/purchased_rels.csv --relationships:ORDERS import-tool-data/order_rels.csv 
+id:ID(Product)	productName:String	supplierID:int	categoryID:int	...
+```
+
+Modified `supplies_rels.csv` header:
+
+```
+:END_ID(Product)	productName:IGNORE	:START_ID(Supplier)	categoryID:IGNORE	...
+```
+
+As every row in the imput file is of the same relationship type, the TYPE is set in the console command.
+Import Products, Suppliers, and the SUPPLIES relationship between them using the following command:
+
+```
+neo4j-import --into northwind-db --ignore-empty-strings --delimiter "TAB" --nodes:Supplier import-tool-data/suppliers.csv --nodes:Product import-tool-data/products.csv --relationships:SUPPLIES
+```
+
+The following command imports 
+
+Nodes:
+
+- Supplier
+- Product
+- Order
+- Customer
+
+Relationships:
+
+- SUPPLIES
+- PURCHASED
+- ORDERS
+
+```
+neo4j-import --into northwind-db --ignore-empty-strings --delimiter "TAB" --nodes:Supplier import-tool-data/suppliers.csv --nodes:Product import-tool-data/products.csv --relationships:SUPPLIES import-tool-data/supplies_rels.csv --nodes:Order import-tool-data/orders.csv --nodes:Customer import-tool-data/customers.csv --relationships:PURCHASED import-tool-data/purchased_rels.csv --relationships:ORDERS import-tool-data/order_rels.csv
 ```
