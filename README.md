@@ -69,10 +69,8 @@ The command below loads just the Supply nodes to a database in a selected direct
 ### Delimiters
 
 Because addresses in particular have many commas, the data would ideally be exported using a non-comma delimiter.
-Replace the delimiter in the dataset with something else, like a `;`.
-Note that if you change the delimiter to `;`, you will have to set the `array-delimiter` to something else (like `|`), because `;` is the defailt `array-delimiter`. 
+Replace the delimiter in the dataset with something else, like a `TAB`.
 
 ```
-neo4j-import --into northwind-db --nodes:Supplier import-tool-data/suppliers.csv --ignore-empty-strings --delimiter ";" --array-delimiter "|" --id-type INTEGER
+neo4j-import --into northwind-db --ignore-empty-strings --delimiter "TAB" --nodes:Supplier import-tool-data/suppliers.csv --nodes:Product import-tool-data/products.csv --relationships:SUPPLIES import-tool-data/supplies_rels.csv --nodes:Order import-tool-data/orders.csv --nodes:Customer import-tool-data/customers.csv --relationships:PURCHASED import-tool-data/purchased_rels.csv --relationships:ORDERS import-tool-data/order_rels.csv 
 ```
-
