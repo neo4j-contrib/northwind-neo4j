@@ -52,7 +52,7 @@ id:ID(Supplier),companyName,contactName,contactTitle,...
 
 ### Property Types
 
-Property types for nodes and relationships are set in the header file (e.g. `:int`, `:string`, `:ignored, et cetera).
+Property types for nodes and relationships are set in the header file (e.g. `:int`, `:string`, `:IGNORE, et cetera).
 In this example, `supplier.csv` be modified like this:
 
 ```
@@ -91,7 +91,7 @@ Modified `supplies_rels.csv` header:
 :END_ID(Product)	productName:IGNORE	:START_ID(Supplier)	categoryID:IGNORE	...
 ```
 
-As every row in the imput file is of the same relationship type, the TYPE is set in the console command.
+As every row in the input file is of the same relationship type, the TYPE is set in the console command.
 Import Products, Suppliers, and the SUPPLIES relationship between them using the following command:
 
 ```
